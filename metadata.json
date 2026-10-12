@@ -1,0 +1,6 @@
+{
+  "name": "WayFind - Campus Navigation",
+  "description": "Smart campus navigation prototype featuring live indoor & outdoor routing, visual landmark checkpoints, room directories, and accessibility options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

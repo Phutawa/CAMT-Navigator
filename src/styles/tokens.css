@@ -1,0 +1,35 @@
+:root {
+  /* Soft Sage Nature Design Tokens */
+  --bg: #EEF3EA;
+  --bg-gradient-end: #E3ECDD;
+  --surface: #FFFFFF;
+  --surface-soft: #F7FAF4;
+  --primary: #3F6B4B;
+  --primary-dark: #2B4D36;
+  --primary-soft: #DCE9D8;
+  --ink: #1F2A22;
+  --ink-muted: #5B6B5F;
+  --accent-sand: #E9DFC8;
+  --success: #1F7A45;
+
+  /* Warning & Danger */
+  --warning-text: #B7791F;
+  --warning-bg: #FFF4DC;
+  --danger-text: #C2410C;
+  --danger-bg: #FDECE4;
+
+  /* Map Route & Indicators */
+  --route: #2F8F57;
+  --route-casing: #FFFFFF;
+  --route-passed: #B9C7BC;
+  --user-dot: #2563EB;
+
+  /* Radius */
+  --radius-card: 28px;
+  --radius-image: 20px;
+  --radius-pill: 9999px;
+
+  /* Shadows */
+  --shadow-card: 0 10px 30px rgba(43, 77, 54, 0.10);
+  --shadow-primary: 0 8px 20px rgba(63, 107, 75, 0.28);
+}

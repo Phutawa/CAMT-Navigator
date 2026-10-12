@@ -1,0 +1,9152 @@
+[
+  {
+    "type": "node",
+    "id": 479708459,
+    "name": "Chiang Mai Zoo",
+    "name_th": "",
+    "name_en": "",
+    "category": "parking",
+    "lat": 18.8094372,
+    "lon": 98.9481051
+  },
+  {
+    "type": "node",
+    "id": 479709162,
+    "name": "Aquarium Food Court",
+    "name_th": "",
+    "name_en": "",
+    "category": "fast_food",
+    "lat": 18.804889,
+    "lon": 98.9454646
+  },
+  {
+    "type": "node",
+    "id": 479709287,
+    "name": "Panda Food Court",
+    "name_th": "",
+    "name_en": "",
+    "category": "fast_food",
+    "lat": 18.8060214,
+    "lon": 98.9464018
+  },
+  {
+    "type": "node",
+    "id": 725689632,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.8060035,
+    "lon": 98.9595445
+  },
+  {
+    "type": "node",
+    "id": 725689676,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.8087882,
+    "lon": 98.9466099
+  },
+  {
+    "type": "node",
+    "id": 914622470,
+    "name": "สนามกีฬากลาง",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7979949,
+    "lon": 98.9572787
+  },
+  {
+    "type": "node",
+    "id": 1489645286,
+    "name": "Lotus's go fresh",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.7907343,
+    "lon": 98.9609356
+  },
+  {
+    "type": "node",
+    "id": 1492467188,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.7905346,
+    "lon": 98.9614907
+  },
+  {
+    "type": "node",
+    "id": 1518736558,
+    "name": "ธนาคารทหารไทย",
+    "name_th": "ธนาคารทหารไทย",
+    "name_en": "TMBThanachart Bank",
+    "category": "bank",
+    "lat": 18.7908452,
+    "lon": 98.9576206
+  },
+  {
+    "type": "node",
+    "id": 1595585874,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.8073847,
+    "lon": 98.9562041
+  },
+  {
+    "type": "node",
+    "id": 1595614864,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.8059509,
+    "lon": 98.9589897
+  },
+  {
+    "type": "node",
+    "id": 1814987327,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.7905807,
+    "lon": 98.9562503
+  },
+  {
+    "type": "node",
+    "id": 1819823722,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.7992667,
+    "lon": 98.9610676
+  },
+  {
+    "type": "node",
+    "id": 1851232864,
+    "name": "สมศักดิ์เภสัช 2",
+    "name_th": "สมศักดิ์เภสัช 2",
+    "name_en": "Somsak Pharmacy 2",
+    "category": "pharmacy",
+    "lat": 18.7906053,
+    "lon": 98.9613091
+  },
+  {
+    "type": "node",
+    "id": 1851239448,
+    "name": "ห้างทองทวีทอง 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "jewelry",
+    "lat": 18.7906839,
+    "lon": 98.9610743
+  },
+  {
+    "type": "node",
+    "id": 1923370067,
+    "name": "7/11",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.7973579,
+    "lon": 98.9530624
+  },
+  {
+    "type": "node",
+    "id": 2093176045,
+    "name": "หอนาฬิกา",
+    "name_th": "หอนาฬิกา",
+    "name_en": "Clock tower",
+    "category": "clock",
+    "lat": 18.7965375,
+    "lon": 98.9532991
+  },
+  {
+    "type": "node",
+    "id": 2099142467,
+    "name": "Gallery",
+    "name_th": "",
+    "name_en": "",
+    "category": "clothes",
+    "lat": 18.8053363,
+    "lon": 98.9598107
+  },
+  {
+    "type": "node",
+    "id": 2102449647,
+    "name": "ที่จอดรถสำหรับคนที่มาเล่นกีฬา",
+    "name_th": "",
+    "name_en": "",
+    "category": "parking",
+    "lat": 18.7946392,
+    "lon": 98.9568159
+  },
+  {
+    "type": "node",
+    "id": 2102486658,
+    "name": "ทางเข้าที่จอดรถ",
+    "name_th": "",
+    "name_en": "",
+    "category": "parking_entrance",
+    "lat": 18.7967209,
+    "lon": 98.9515884
+  },
+  {
+    "type": "node",
+    "id": 2102537699,
+    "name": "ATM ธ.กรุงไทย",
+    "name_th": "",
+    "name_en": "",
+    "category": "atm",
+    "lat": 18.7924,
+    "lon": 98.9559345
+  },
+  {
+    "type": "node",
+    "id": 2105872862,
+    "name": "ตลาดฝายหิน",
+    "name_th": "ตลาดฝายหิน",
+    "name_en": "Fai Hin Market",
+    "category": "food_court",
+    "lat": 18.7994772,
+    "lon": 98.948621
+  },
+  {
+    "type": "node",
+    "id": 2434739253,
+    "name": "คณะวิศวกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Engineering",
+    "category": "",
+    "lat": 18.7966977,
+    "lon": 98.9526185
+  },
+  {
+    "type": "node",
+    "id": 2434757093,
+    "name": "ธนาคารกรุงเทพ",
+    "name_th": "ธนาคารกรุงเทพ",
+    "name_en": "Bangkok Bank",
+    "category": "bank",
+    "lat": 18.8018465,
+    "lon": 98.9507284
+  },
+  {
+    "type": "node",
+    "id": 2434758530,
+    "name": "ธนาคารกรุงไทย",
+    "name_th": "ธนาคารกรุงไทย",
+    "name_en": "Krungthai Bank",
+    "category": "bank",
+    "lat": 18.8019111,
+    "lon": 98.9506653
+  },
+  {
+    "type": "node",
+    "id": 2434765713,
+    "name": "ร้านก๋วยเตี๋ยว",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7952606,
+    "lon": 98.9509211
+  },
+  {
+    "type": "node",
+    "id": 2434766084,
+    "name": "ตู้ ATM ไทยพาณิชย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "atm",
+    "lat": 18.801424,
+    "lon": 98.9526054
+  },
+  {
+    "type": "node",
+    "id": 2434770159,
+    "name": "วิทยาลัยพหุวิทยาการและสหวิทยาการ",
+    "name_th": "",
+    "name_en": "Multidisciplinary and Interdisciplinary School",
+    "category": "",
+    "lat": 18.794618,
+    "lon": 98.958928
+  },
+  {
+    "type": "node",
+    "id": 2434773550,
+    "name": "Au choix",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.801952,
+    "lon": 98.955317
+  },
+  {
+    "type": "node",
+    "id": 2434777647,
+    "name": "Him Tang",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8030234,
+    "lon": 98.9541472
+  },
+  {
+    "type": "node",
+    "id": 2434781037,
+    "name": "สโมสรนักศึกษาบัณฑิตศึกษา",
+    "name_th": "",
+    "name_en": "Graduate School Union (GSU)",
+    "category": "",
+    "lat": 18.7944862,
+    "lon": 98.9571539
+  },
+  {
+    "type": "node",
+    "id": 2434783251,
+    "name": "กาแฟรัฐศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.803659,
+    "lon": 98.954184
+  },
+  {
+    "type": "node",
+    "id": 2434783680,
+    "name": "Smile Coffee",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7961626,
+    "lon": 98.9524658
+  },
+  {
+    "type": "node",
+    "id": 2434784899,
+    "name": "อาคาร 1 คณะศึกษาศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Education - Building 1",
+    "category": "",
+    "lat": 18.7935561,
+    "lon": 98.9548248
+  },
+  {
+    "type": "node",
+    "id": 2434785831,
+    "name": "Double Click Cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8036767,
+    "lon": 98.9529954
+  },
+  {
+    "type": "node",
+    "id": 2434787311,
+    "name": "PAK Cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.803894,
+    "lon": 98.9523157
+  },
+  {
+    "type": "node",
+    "id": 2434788491,
+    "name": "ฝ้ายเบเกอรี่",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8017106,
+    "lon": 98.9518461
+  },
+  {
+    "type": "node",
+    "id": 2434788893,
+    "name": "ลานกิจกรรมหอพักหญิง 2",
+    "name_th": "",
+    "name_en": "Student Activity Playground",
+    "category": "",
+    "lat": 18.7994136,
+    "lon": 98.9537143
+  },
+  {
+    "type": "node",
+    "id": 2434789769,
+    "name": "คณะรัฐศาสตร์ฯ",
+    "name_th": "",
+    "name_en": "Faculty of Political Science and Public Administration",
+    "category": "",
+    "lat": 18.8027867,
+    "lon": 98.954412
+  },
+  {
+    "type": "node",
+    "id": 2434791094,
+    "name": "Kopi Gusto",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.801594,
+    "lon": 98.953546
+  },
+  {
+    "type": "node",
+    "id": 2434791424,
+    "name": "C.M.U Bookstore Coffee",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8015102,
+    "lon": 98.952814
+  },
+  {
+    "type": "node",
+    "id": 2434791738,
+    "name": "ลานจอดรถ อ.มช.",
+    "name_th": "",
+    "name_en": "Student Union Car Park",
+    "category": "",
+    "lat": 18.8002312,
+    "lon": 98.9534206
+  },
+  {
+    "type": "node",
+    "id": 2434791784,
+    "name": "The Chalatte",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8019507,
+    "lon": 98.9504487
+  },
+  {
+    "type": "node",
+    "id": 2434793620,
+    "name": "ฝ้ายเบเกอรี่",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7941323,
+    "lon": 98.9571127
+  },
+  {
+    "type": "node",
+    "id": 2434794609,
+    "name": "ร้านส้มตำไก่ย่าง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7953413,
+    "lon": 98.9509213
+  },
+  {
+    "type": "node",
+    "id": 2434794610,
+    "name": "ร้านอาหารตามสั่ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7977616,
+    "lon": 98.9524247
+  },
+  {
+    "type": "node",
+    "id": 2434794611,
+    "name": "ร้านก๋วยเตี๋ยว",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.797762,
+    "lon": 98.9524808
+  },
+  {
+    "type": "node",
+    "id": 2434794612,
+    "name": "ร้านป้าบุตร ข้าวมันไก่",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7977624,
+    "lon": 98.952537
+  },
+  {
+    "type": "node",
+    "id": 2434794613,
+    "name": "ร้านของทอด-กินเล่น",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7977627,
+    "lon": 98.9525931
+  },
+  {
+    "type": "node",
+    "id": 2434794614,
+    "name": "ร้านขายน้ำ-ขนม",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7981553,
+    "lon": 98.9511873
+  },
+  {
+    "type": "node",
+    "id": 2434794615,
+    "name": "ร้านกินไก่",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7953004,
+    "lon": 98.9509218
+  },
+  {
+    "type": "node",
+    "id": 2434794616,
+    "name": "ร้านมาลาอาหารไทย (ราดแกง)",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.795223,
+    "lon": 98.9509205
+  },
+  {
+    "type": "node",
+    "id": 2434794617,
+    "name": "ร้านลูกชิ้นสังคม",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7951865,
+    "lon": 98.9509199
+  },
+  {
+    "type": "node",
+    "id": 2434794618,
+    "name": "ร้านน้ำ-ขนม",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7951467,
+    "lon": 98.9509204
+  },
+  {
+    "type": "node",
+    "id": 2434794619,
+    "name": "นานาน้ำผลไม้",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7981214,
+    "lon": 98.9529376
+  },
+  {
+    "type": "node",
+    "id": 2434794621,
+    "name": "อาหารตามสั่ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7981987,
+    "lon": 98.953009
+  },
+  {
+    "type": "node",
+    "id": 2434794622,
+    "name": "ก๋วยเตี๋ยวป้านภา หอสามชาย",
+    "name_th": "",
+    "name_en": "Aunt Napa's Noodle",
+    "category": "restaurant",
+    "lat": 18.7981213,
+    "lon": 98.9529899
+  },
+  {
+    "type": "node",
+    "id": 2434794623,
+    "name": "ร้านของทอด,ขนม,น้ำ",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7977539,
+    "lon": 98.952087
+  },
+  {
+    "type": "node",
+    "id": 2434794624,
+    "name": "ร้านก๋วยเตี๋ยว",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7977491,
+    "lon": 98.9521398
+  },
+  {
+    "type": "node",
+    "id": 2434794625,
+    "name": "ร้านข้าวมันไก่",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7977458,
+    "lon": 98.9521877
+  },
+  {
+    "type": "node",
+    "id": 2434794626,
+    "name": "ร้านอาหารตามสั่ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7978054,
+    "lon": 98.9522215
+  },
+  {
+    "type": "node",
+    "id": 2434794627,
+    "name": "ร้านลูกชิ้นทอด",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7981366,
+    "lon": 98.9530415
+  },
+  {
+    "type": "node",
+    "id": 2434794628,
+    "name": "ร้านข้าวหน้าไก่",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7973892,
+    "lon": 98.9520679
+  },
+  {
+    "type": "node",
+    "id": 2434794629,
+    "name": "ร้านก๋วยเตี๋ยว",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7973857,
+    "lon": 98.9521184
+  },
+  {
+    "type": "node",
+    "id": 2434794630,
+    "name": "ร้านขนม,น้ำ,ของทอด",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7973821,
+    "lon": 98.9521689
+  },
+  {
+    "type": "node",
+    "id": 2434794631,
+    "name": "ร้านอาหารตามสั่ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7973452,
+    "lon": 98.9521848
+  },
+  {
+    "type": "node",
+    "id": 2434809621,
+    "name": "คณะสถาปัตยกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Architecture",
+    "category": "",
+    "lat": 18.7981374,
+    "lon": 98.9482003
+  },
+  {
+    "type": "node",
+    "id": 2434815654,
+    "name": "ร้านสหกรณ์ มช.",
+    "name_th": "",
+    "name_en": "CMU Cooperative Store",
+    "category": "",
+    "lat": 18.8015571,
+    "lon": 98.951173
+  },
+  {
+    "type": "node",
+    "id": 2435124433,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.79167,
+    "lon": 98.9501762
+  },
+  {
+    "type": "node",
+    "id": 2445337684,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7946244,
+    "lon": 98.9508654
+  },
+  {
+    "type": "node",
+    "id": 2445339095,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7971899,
+    "lon": 98.9518646
+  },
+  {
+    "type": "node",
+    "id": 2445339427,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7980533,
+    "lon": 98.9519262
+  },
+  {
+    "type": "node",
+    "id": 2445339843,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7983781,
+    "lon": 98.9526859
+  },
+  {
+    "type": "node",
+    "id": 2445339844,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7977633,
+    "lon": 98.9527374
+  },
+  {
+    "type": "node",
+    "id": 2445339845,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7973564,
+    "lon": 98.9527374
+  },
+  {
+    "type": "node",
+    "id": 2445339846,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7977572,
+    "lon": 98.9538446
+  },
+  {
+    "type": "node",
+    "id": 2445339847,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7973379,
+    "lon": 98.9538642
+  },
+  {
+    "type": "node",
+    "id": 2445339848,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7983368,
+    "lon": 98.9538056
+  },
+  {
+    "type": "node",
+    "id": 2445339849,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7977818,
+    "lon": 98.9548151
+  },
+  {
+    "type": "node",
+    "id": 2445339851,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7987866,
+    "lon": 98.9547188
+  },
+  {
+    "type": "node",
+    "id": 2445339852,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7987386,
+    "lon": 98.9556921
+  },
+  {
+    "type": "node",
+    "id": 2445339853,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7981461,
+    "lon": 98.9556719
+  },
+  {
+    "type": "node",
+    "id": 2445340635,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7997034,
+    "lon": 98.9527243
+  },
+  {
+    "type": "node",
+    "id": 2445340636,
+    "name": "Security Guard",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7998227,
+    "lon": 98.9538685
+  },
+  {
+    "type": "node",
+    "id": 2453749219,
+    "name": "ห้องอ่านหนังสือ หอ 5 ชาย",
+    "name_th": "",
+    "name_en": "",
+    "category": "training",
+    "lat": 18.797407,
+    "lon": 98.951708
+  },
+  {
+    "type": "node",
+    "id": 2453749930,
+    "name": "ห้องอ่านหนังสือ หอ 6 ชาย",
+    "name_th": "",
+    "name_en": "",
+    "category": "training",
+    "lat": 18.797821,
+    "lon": 98.951773
+  },
+  {
+    "type": "node",
+    "id": 2453750784,
+    "name": "ห้องอ่านหนังสือ หอ 3 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "training",
+    "lat": 18.799885,
+    "lon": 98.952465
+  },
+  {
+    "type": "node",
+    "id": 2453751788,
+    "name": "จุดอ่านหนังสือ (โรงอาหาร)",
+    "name_th": "",
+    "name_en": "",
+    "category": "training",
+    "lat": 18.800609,
+    "lon": 98.95306
+  },
+  {
+    "type": "node",
+    "id": 2453752978,
+    "name": "ห้องอ่านหนังสือ หอ 4 ชาย",
+    "name_th": "",
+    "name_en": "",
+    "category": "training",
+    "lat": 18.797353,
+    "lon": 98.952545
+  },
+  {
+    "type": "node",
+    "id": 2453758055,
+    "name": "ห้องสมุดคณะสถาปัตยกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Architecture Library",
+    "category": "library",
+    "lat": 18.7979994,
+    "lon": 98.9492364
+  },
+  {
+    "type": "node",
+    "id": 2453758056,
+    "name": "ห้องสมุดคณะเศรษฐศาสตร์",
+    "name_th": "",
+    "name_en": "Economics Library",
+    "category": "library",
+    "lat": 18.8014507,
+    "lon": 98.9502927
+  },
+  {
+    "type": "node",
+    "id": 2453767249,
+    "name": "ห้องสมุดวิทยาลัยศิลปะสื่อและเทคโนโลยี",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.800442,
+    "lon": 98.9504326
+  },
+  {
+    "type": "node",
+    "id": 2453767250,
+    "name": "ห้องสมุดคณะสังคม",
+    "name_th": "",
+    "name_en": "Social Sciences Library",
+    "category": "library",
+    "lat": 18.8025424,
+    "lon": 98.9504542
+  },
+  {
+    "type": "node",
+    "id": 2453767251,
+    "name": "ห้องสมุดคณะมนุษยศาสตร์",
+    "name_th": "",
+    "name_en": "Humanities Library",
+    "category": "library",
+    "lat": 18.8040353,
+    "lon": 98.9517497
+  },
+  {
+    "type": "node",
+    "id": 2453767252,
+    "name": "ห้องสมุดคณะศึกษาศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.793046,
+    "lon": 98.956237
+  },
+  {
+    "type": "node",
+    "id": 2453767253,
+    "name": "ห้องสมุดคณะบริหาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.794082,
+    "lon": 98.9567547
+  },
+  {
+    "type": "node",
+    "id": 2453767254,
+    "name": "ห้องสมุดคณะวิจิตรศิลป์",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.7929495,
+    "lon": 98.9574896
+  },
+  {
+    "type": "node",
+    "id": 2453767255,
+    "name": "ห้องสมุดคณะเกษตรศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.7934878,
+    "lon": 98.9604776
+  },
+  {
+    "type": "node",
+    "id": 2453767256,
+    "name": "ห้องสมุดคณะวิทยาศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.8014963,
+    "lon": 98.9534448
+  },
+  {
+    "type": "node",
+    "id": 2453767257,
+    "name": "ห้องสมุดคณะรัฐศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "library",
+    "lat": 18.8035699,
+    "lon": 98.9544782
+  },
+  {
+    "type": "node",
+    "id": 2604017614,
+    "name": "งอน หลำ",
+    "name_th": "งอน หลำ",
+    "name_en": "Ngon Lam Vietnamese Restaurant",
+    "category": "restaurant",
+    "lat": 18.8027523,
+    "lon": 98.960445
+  },
+  {
+    "type": "node",
+    "id": 2609583868,
+    "name": "Moc Mol",
+    "name_th": "",
+    "name_en": "",
+    "category": "bar",
+    "lat": 18.806611,
+    "lon": 98.9576688
+  },
+  {
+    "type": "node",
+    "id": 2609583869,
+    "name": "สถานีตำรวจภูธรภูพิงคราชนิเวศน์",
+    "name_th": "สถานีตำรวจภูธรภูพิงคราชนิเวศน์",
+    "name_en": "Phupingrajanivej Police Station",
+    "category": "police",
+    "lat": 18.8102658,
+    "lon": 98.9517361
+  },
+  {
+    "type": "node",
+    "id": 2609592099,
+    "name": "อีสานล้านเปอร์เซ็นต์",
+    "name_th": "อีสานล้านเปอร์เซ็นต์",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8084541,
+    "lon": 98.9549496
+  },
+  {
+    "type": "node",
+    "id": 2638612424,
+    "name": "ร้านอาหารกาแล",
+    "name_th": "ร้านอาหารกาแล",
+    "name_en": "Galae Restaurant",
+    "category": "restaurant",
+    "lat": 18.7938067,
+    "lon": 98.9455838
+  },
+  {
+    "type": "node",
+    "id": 2638612443,
+    "name": "ร้านยา เอพลัส",
+    "name_th": "ร้านยา เอพลัส",
+    "name_en": "A+ Pharmacy",
+    "category": "pharmacy",
+    "lat": 18.7993703,
+    "lon": 98.9610408
+  },
+  {
+    "type": "node",
+    "id": 2639527925,
+    "name": "Doi Suthep red bus station",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8106533,
+    "lon": 98.9483688
+  },
+  {
+    "type": "node",
+    "id": 2642365445,
+    "name": "My home",
+    "name_th": "",
+    "name_en": "",
+    "category": "doityourself",
+    "lat": 18.809041,
+    "lon": 98.958759
+  },
+  {
+    "type": "node",
+    "id": 2650709902,
+    "name": "สานใจ",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.7930226,
+    "lon": 98.9538726
+  },
+  {
+    "type": "node",
+    "id": 2650719954,
+    "name": "ข้าวมันไก่จักรพรรดิ เชียงใหม่",
+    "name_th": "ข้าวมันไก่จักรพรรดิ เชียงใหม่",
+    "name_en": "Chakkrapad Chicken Rice",
+    "category": "restaurant",
+    "lat": 18.7934281,
+    "lon": 98.952305
+  },
+  {
+    "type": "node",
+    "id": 2650737863,
+    "name": "โรงเรียนบ้านเชิงดอยสุเทพ",
+    "name_th": "โรงเรียนบ้านเชิงดอยสุเทพ",
+    "name_en": "Doi Suthep School",
+    "category": "school",
+    "lat": 18.7941495,
+    "lon": 98.9488903
+  },
+  {
+    "type": "node",
+    "id": 2650752229,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.791703,
+    "lon": 98.9581363
+  },
+  {
+    "type": "node",
+    "id": 2660452151,
+    "name": "วัดประทานพร",
+    "name_th": "วัดประทานพร",
+    "name_en": "Wat Prathan Phon",
+    "category": "place_of_worship",
+    "lat": 18.8008662,
+    "lon": 98.9590811
+  },
+  {
+    "type": "node",
+    "id": 2660452152,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.800416,
+    "lon": 98.9600437
+  },
+  {
+    "type": "node",
+    "id": 2660454587,
+    "name": "กล่อง",
+    "name_th": "กล่อง",
+    "name_en": "Half time Cafe",
+    "category": "bar",
+    "lat": 18.8028392,
+    "lon": 98.9592798
+  },
+  {
+    "type": "node",
+    "id": 3167944778,
+    "name": "ร้านตัดผม haircut beauty shop",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7975453,
+    "lon": 98.952103
+  },
+  {
+    "type": "node",
+    "id": 3167968625,
+    "name": "หอพักหญิง 3",
+    "name_th": "",
+    "name_en": "Female Dormitory 3",
+    "category": "",
+    "lat": 18.7996403,
+    "lon": 98.9527359
+  },
+  {
+    "type": "node",
+    "id": 3167968626,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7979728,
+    "lon": 98.9518814
+  },
+  {
+    "type": "node",
+    "id": 3167968627,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7975655,
+    "lon": 98.9528597
+  },
+  {
+    "type": "node",
+    "id": 3167968628,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7972658,
+    "lon": 98.9518994
+  },
+  {
+    "type": "node",
+    "id": 3167968630,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7975426,
+    "lon": 98.9538238
+  },
+  {
+    "type": "node",
+    "id": 3167968632,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.798058,
+    "lon": 98.9556614
+  },
+  {
+    "type": "node",
+    "id": 3167968634,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7985706,
+    "lon": 98.9547483
+  },
+  {
+    "type": "node",
+    "id": 3167968635,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7982389,
+    "lon": 98.9537892
+  },
+  {
+    "type": "node",
+    "id": 3167968636,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7998593,
+    "lon": 98.9542442
+  },
+  {
+    "type": "node",
+    "id": 3167968642,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8006866,
+    "lon": 98.9529296
+  },
+  {
+    "type": "node",
+    "id": 3167968643,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8011233,
+    "lon": 98.9518943
+  },
+  {
+    "type": "node",
+    "id": 3167972703,
+    "name": "หอพักชาย 3",
+    "name_th": "",
+    "name_en": "Male Dormitory 3",
+    "category": "",
+    "lat": 18.7977555,
+    "lon": 98.9532178
+  },
+  {
+    "type": "node",
+    "id": 3167975394,
+    "name": "คณะสังคมศาสตร์ สาย 3, 4",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8030242,
+    "lon": 98.9504173
+  },
+  {
+    "type": "node",
+    "id": 3167977788,
+    "name": "แฟลตฝายหิน",
+    "name_th": "",
+    "name_en": "Fai-Hin Apartment",
+    "category": "",
+    "lat": 18.8018026,
+    "lon": 98.9486169
+  },
+  {
+    "type": "node",
+    "id": 3167978928,
+    "name": "คณะเศรษฐศาสตร์ สาย 4",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8011466,
+    "lon": 98.9499884
+  },
+  {
+    "type": "node",
+    "id": 3182196916,
+    "name": "ที่จอดรถจักรยานยนต์",
+    "name_th": "",
+    "name_en": "",
+    "category": "motorcycle_parking",
+    "lat": 18.7997356,
+    "lon": 98.9497646
+  },
+  {
+    "type": "node",
+    "id": 3182200360,
+    "name": "ร้านตัดผม",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7977678,
+    "lon": 98.9519375
+  },
+  {
+    "type": "node",
+    "id": 3182204027,
+    "name": "อมช ถ่ายเอกสารครบวงจร",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.8005069,
+    "lon": 98.9528196
+  },
+  {
+    "type": "node",
+    "id": 3182204723,
+    "name": "ที่จอดรถจักรยาน",
+    "name_th": "",
+    "name_en": "",
+    "category": "bicycle_parking",
+    "lat": 18.8016623,
+    "lon": 98.9519453
+  },
+  {
+    "type": "node",
+    "id": 3182205829,
+    "name": "ร้านตัดผม คิเรเนะ",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7981644,
+    "lon": 98.9546318
+  },
+  {
+    "type": "node",
+    "id": 3182205866,
+    "name": "ร้านตัดผม Seven แฮร์ สไตล์",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7985163,
+    "lon": 98.9546853
+  },
+  {
+    "type": "node",
+    "id": 3182206321,
+    "name": "ร้านตัดผม กอล์ฟแฮร์ดีไซน์ 2",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7985112,
+    "lon": 98.9555555
+  },
+  {
+    "type": "node",
+    "id": 3182206731,
+    "name": "ร้านตัดผม แฮร์ดู",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7981376,
+    "lon": 98.9554458
+  },
+  {
+    "type": "node",
+    "id": 3182206735,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7983731,
+    "lon": 98.9547439
+  },
+  {
+    "type": "node",
+    "id": 3182207987,
+    "name": "ตึกเคมี",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.801943,
+    "lon": 98.9542648
+  },
+  {
+    "type": "node",
+    "id": 3182208501,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7986176,
+    "lon": 98.9556074
+  },
+  {
+    "type": "node",
+    "id": 3182208507,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7980352,
+    "lon": 98.9556803
+  },
+  {
+    "type": "node",
+    "id": 3182208525,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7998769,
+    "lon": 98.953662
+  },
+  {
+    "type": "node",
+    "id": 3182208526,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7975068,
+    "lon": 98.9520369
+  },
+  {
+    "type": "node",
+    "id": 3182208856,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7996362,
+    "lon": 98.9501805
+  },
+  {
+    "type": "node",
+    "id": 3182209103,
+    "name": "ตู้ซักผ้าหยอดเหรียญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7976844,
+    "lon": 98.9519803
+  },
+  {
+    "type": "node",
+    "id": 3182220946,
+    "name": "ฝ้ายเบเกอรี่",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8013672,
+    "lon": 98.9501719
+  },
+  {
+    "type": "node",
+    "id": 3195106257,
+    "name": "ร้านถ่ายเอกสาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.8014329,
+    "lon": 98.9525428
+  },
+  {
+    "type": "node",
+    "id": 3195112872,
+    "name": "หอพักหญิง 6",
+    "name_th": "",
+    "name_en": "Female Dormitory 6",
+    "category": "",
+    "lat": 18.7973203,
+    "lon": 98.9533491
+  },
+  {
+    "type": "node",
+    "id": 3195112873,
+    "name": "ภาควิชาอาชีวศึกษาฯ คณะศึกษาศาสตร์",
+    "name_th": "",
+    "name_en": "Department of Vocational Education and Wellness Promotion",
+    "category": "",
+    "lat": 18.7958033,
+    "lon": 98.9542169
+  },
+  {
+    "type": "node",
+    "id": 3195112879,
+    "name": "ลานจอดรถ ITSC",
+    "name_th": "",
+    "name_en": "ITSC Car Park",
+    "category": "",
+    "lat": 18.8041084,
+    "lon": 98.9527141
+  },
+  {
+    "type": "node",
+    "id": 3195112882,
+    "name": "จุดจอดรถม่วงสาย 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.806277,
+    "lon": 98.953809
+  },
+  {
+    "type": "node",
+    "id": 3195112884,
+    "name": "สํานักบริการเทคโนโลยีสารสนเทศ",
+    "name_th": "",
+    "name_en": "ITSC",
+    "category": "",
+    "lat": 18.8039022,
+    "lon": 98.952844
+  },
+  {
+    "type": "node",
+    "id": 3195112885,
+    "name": "สํานักหอสมุด",
+    "name_th": "",
+    "name_en": "CMU Library",
+    "category": "",
+    "lat": 18.8016785,
+    "lon": 98.9512897
+  },
+  {
+    "type": "node",
+    "id": 3195114623,
+    "name": "ที่จอดรถมอเตอร์ไซค์",
+    "name_th": "",
+    "name_en": "",
+    "category": "parking",
+    "lat": 18.7966418,
+    "lon": 98.9573379
+  },
+  {
+    "type": "node",
+    "id": 3195116147,
+    "name": "ร้านถ่ายเอกสาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.8020767,
+    "lon": 98.9547753
+  },
+  {
+    "type": "node",
+    "id": 3195116293,
+    "name": "ร้านถ่ายเอกสาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.8015986,
+    "lon": 98.9533335
+  },
+  {
+    "type": "node",
+    "id": 3195118368,
+    "name": "ร้านถ่ายเอกสาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.8010014,
+    "lon": 98.9519166
+  },
+  {
+    "type": "node",
+    "id": 3197787754,
+    "name": "ศูนย์ญี่ปุ่นศึกษา",
+    "name_th": "",
+    "name_en": "",
+    "category": "research",
+    "lat": 18.8040686,
+    "lon": 98.9516616
+  },
+  {
+    "type": "node",
+    "id": 3242356899,
+    "name": "Minipump",
+    "name_th": "",
+    "name_en": "",
+    "category": "vending_machine",
+    "lat": 18.808078,
+    "lon": 98.9599033
+  },
+  {
+    "type": "node",
+    "id": 3242548890,
+    "name": "Doi Chaang",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8073988,
+    "lon": 98.9573464
+  },
+  {
+    "type": "node",
+    "id": 3318028216,
+    "name": "มายเวียดนาม(หนองคายแหนมเนือง)",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8090267,
+    "lon": 98.9541032
+  },
+  {
+    "type": "node",
+    "id": 3318030316,
+    "name": "เทพพิมานอินน์",
+    "name_th": "เทพพิมานอินน์",
+    "name_en": "Teppiman Inn",
+    "category": "",
+    "lat": 18.8093711,
+    "lon": 98.9534221
+  },
+  {
+    "type": "node",
+    "id": 3318037427,
+    "name": "Art",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.8092391,
+    "lon": 98.9598283
+  },
+  {
+    "type": "node",
+    "id": 3318037428,
+    "name": "แว่นท็อปเจริญ",
+    "name_th": "แว่นท็อปเจริญ",
+    "name_en": "Top Charoen Optical",
+    "category": "optician",
+    "lat": 18.8073603,
+    "lon": 98.9562517
+  },
+  {
+    "type": "node",
+    "id": 3318037429,
+    "name": "แว่นท็อปเจริญ",
+    "name_th": "แว่นท็อปเจริญ",
+    "name_en": "Top Charoen Optical",
+    "category": "optician",
+    "lat": 18.8080535,
+    "lon": 98.9557002
+  },
+  {
+    "type": "node",
+    "id": 3319117712,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.7930808,
+    "lon": 98.9538182
+  },
+  {
+    "type": "node",
+    "id": 3322985561,
+    "name": "คณะมนุษยศาสตร์",
+    "name_th": "คณะมนุษยศาสตร์",
+    "name_en": "Faculty of Humanities",
+    "category": "university",
+    "lat": 18.803955,
+    "lon": 98.9508751
+  },
+  {
+    "type": "node",
+    "id": 3322995085,
+    "name": "ซัน - มูน โฟโต้เอ็กซ์เพรส",
+    "name_th": "ซัน - มูน โฟโต้เอ็กซ์เพรส",
+    "name_en": "Sun-Moon Photo Express",
+    "category": "photo",
+    "lat": 18.8061823,
+    "lon": 98.958797
+  },
+  {
+    "type": "node",
+    "id": 3329435009,
+    "name": "บ้านใหม่หลังมอ",
+    "name_th": "บ้านใหม่หลังมอ",
+    "name_en": "Ban Mai Lang Mo",
+    "category": "",
+    "lat": 18.7910371,
+    "lon": 98.9544167
+  },
+  {
+    "type": "node",
+    "id": 3365337985,
+    "name": "ศูนย์วิจัยด้านโครงสร้างพื้นฐานสีเขียวและเทคโนโลยีการขนส่ง (GITT)",
+    "name_th": "",
+    "name_en": "Green Infrastructure and Transportation Technology",
+    "category": "research",
+    "lat": 18.7949639,
+    "lon": 98.9523762
+  },
+  {
+    "type": "node",
+    "id": 3365337986,
+    "name": "ศูนย์ความเป็นเลิศทางวิศวกรรมขนส่งและเทคโนโลยีโครงสร้างพื้นฐาน (ExCITE)",
+    "name_th": "",
+    "name_en": "Excellence Center in Infrastructure Technology and Transportation Engineering",
+    "category": "research",
+    "lat": 18.7949028,
+    "lon": 98.9523784
+  },
+  {
+    "type": "node",
+    "id": 3365337987,
+    "name": "หน่วยวิจัยภัยพิบัติทางธรรมชาติ ภาควิชาวิศวกรรมโยธา คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเชียงใหม่ (CENDRU)",
+    "name_th": "",
+    "name_en": "Civil Engineering Chiang Mai University Natural Disasters Research Unit",
+    "category": "research",
+    "lat": 18.7943495,
+    "lon": 98.9524031
+  },
+  {
+    "type": "node",
+    "id": 3384292601,
+    "name": "ธนาคารกสิกรไทย",
+    "name_th": "ธนาคารกสิกรไทย",
+    "name_en": "Kasikorn Bank",
+    "category": "atm",
+    "lat": 18.8108121,
+    "lon": 98.9583668
+  },
+  {
+    "type": "node",
+    "id": 3400272248,
+    "name": "I Like Ice-cream",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7928431,
+    "lon": 98.9543515
+  },
+  {
+    "type": "node",
+    "id": 3400272249,
+    "name": "The Volcano",
+    "name_th": "",
+    "name_en": "",
+    "category": "bakery",
+    "lat": 18.7922141,
+    "lon": 98.956035
+  },
+  {
+    "type": "node",
+    "id": 3731359562,
+    "name": "ป้อมยาม ประตูวิศวะ",
+    "name_th": "",
+    "name_en": "",
+    "category": "police",
+    "lat": 18.7948758,
+    "lon": 98.9533758
+  },
+  {
+    "type": "node",
+    "id": 3731360264,
+    "name": "Park Library of Engineer Chiang Mai University",
+    "name_th": "",
+    "name_en": "",
+    "category": "parking",
+    "lat": 18.7944545,
+    "lon": 98.9506266
+  },
+  {
+    "type": "node",
+    "id": 3736824585,
+    "name": "พระวิษณุกรรม",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.794451,
+    "lon": 98.9517811
+  },
+  {
+    "type": "node",
+    "id": 3819711686,
+    "name": "Catmosphere Cat Café",
+    "name_th": "แคทโมสเฟียร์ แคท คาเฟ่",
+    "name_en": "Catmosphere Cat Café",
+    "category": "cafe",
+    "lat": 18.8063487,
+    "lon": 98.9579089
+  },
+  {
+    "type": "node",
+    "id": 3927203449,
+    "name": "Mac Cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8064957,
+    "lon": 98.957928
+  },
+  {
+    "type": "node",
+    "id": 4009442560,
+    "name": "Car & m/c wash",
+    "name_th": "",
+    "name_en": "",
+    "category": "car_wash",
+    "lat": 18.7918616,
+    "lon": 98.9562969
+  },
+  {
+    "type": "node",
+    "id": 4018140121,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "7-Eleven",
+    "category": "convenience",
+    "lat": 18.7921691,
+    "lon": 98.9568284
+  },
+  {
+    "type": "node",
+    "id": 4018147624,
+    "name": "ห้างสรรพสินค้าแจ่มฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "supermarket",
+    "lat": 18.7912739,
+    "lon": 98.9594489
+  },
+  {
+    "type": "node",
+    "id": 4019010220,
+    "name": "หมูสองชั้น",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7928276,
+    "lon": 98.9538567
+  },
+  {
+    "type": "node",
+    "id": 4172660185,
+    "name": "dcondo campus resort",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.792736,
+    "lon": 98.9491931
+  },
+  {
+    "type": "node",
+    "id": 4209258146,
+    "name": "The Mellowship Jazz Club",
+    "name_th": "",
+    "name_en": "",
+    "category": "bar",
+    "lat": 18.8056892,
+    "lon": 98.9600606
+  },
+  {
+    "type": "node",
+    "id": 4239074138,
+    "name": "หอพักสีชมพู",
+    "name_th": "",
+    "name_en": "Pink Dormitory",
+    "category": "",
+    "lat": 18.799143,
+    "lon": 98.9574002
+  },
+  {
+    "type": "node",
+    "id": 4353683214,
+    "name": "ตู้ ATM ธนาคารกรุงเทพ",
+    "name_th": "",
+    "name_en": "",
+    "category": "atm",
+    "lat": 18.7906079,
+    "lon": 98.9562911
+  },
+  {
+    "type": "node",
+    "id": 4353683217,
+    "name": "ร้านข้าวยำไก่",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7900564,
+    "lon": 98.9560148
+  },
+  {
+    "type": "node",
+    "id": 4355073458,
+    "name": "ซูโก้ย BBQ หลัง มช.",
+    "name_th": "",
+    "name_en": "Sugoi BBQ",
+    "category": "restaurant",
+    "lat": 18.7923561,
+    "lon": 98.9560325
+  },
+  {
+    "type": "node",
+    "id": 4355081629,
+    "name": "Chill HOUSE",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8004224,
+    "lon": 98.9596344
+  },
+  {
+    "type": "node",
+    "id": 4355117364,
+    "name": "อาหารตามสั่ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7995167,
+    "lon": 98.9484323
+  },
+  {
+    "type": "node",
+    "id": 4358825056,
+    "name": "ครัวผู้การ",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7902253,
+    "lon": 98.9582744
+  },
+  {
+    "type": "node",
+    "id": 4358831080,
+    "name": "ร้านกาแฟสังคม",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7913413,
+    "lon": 98.9592688
+  },
+  {
+    "type": "node",
+    "id": 4358843115,
+    "name": "ร้านกาแฟสังคม",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7912179,
+    "lon": 98.9593836
+  },
+  {
+    "type": "node",
+    "id": 4358843672,
+    "name": "เมต้าซาลอน",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7910831,
+    "lon": 98.9592924
+  },
+  {
+    "type": "node",
+    "id": 4359589496,
+    "name": "สาขาหลังมอ",
+    "name_th": "สาขาหลังมอ",
+    "name_en": "Faircut 2",
+    "category": "hairdresser",
+    "lat": 18.7914048,
+    "lon": 98.9590504
+  },
+  {
+    "type": "node",
+    "id": 4359719518,
+    "name": "พีพีหมูกระทะ",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7920661,
+    "lon": 98.9557905
+  },
+  {
+    "type": "node",
+    "id": 4359719965,
+    "name": "ATM ธนาคารไทยพาณิชย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "atm",
+    "lat": 18.7929129,
+    "lon": 98.9541725
+  },
+  {
+    "type": "node",
+    "id": 4359723993,
+    "name": "อ่างแก้ว",
+    "name_th": "",
+    "name_en": "Angkaew",
+    "category": "",
+    "lat": 18.8052011,
+    "lon": 98.9502554
+  },
+  {
+    "type": "node",
+    "id": 4359730107,
+    "name": "ATM",
+    "name_th": "",
+    "name_en": "",
+    "category": "atm",
+    "lat": 18.8019216,
+    "lon": 98.9515271
+  },
+  {
+    "type": "node",
+    "id": 4359954793,
+    "name": "ร้านทุกอย่าง 20 บาท",
+    "name_th": "",
+    "name_en": "",
+    "category": "variety_store",
+    "lat": 18.8108573,
+    "lon": 98.9584928
+  },
+  {
+    "type": "node",
+    "id": 4359955668,
+    "name": "ร้านข้าวไข่เจียว ยำวุ้นเส้น ป้าหลิน",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.810807,
+    "lon": 98.9585158
+  },
+  {
+    "type": "node",
+    "id": 4360248778,
+    "name": "ครัว ร.หน่อย",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8004277,
+    "lon": 98.9595832
+  },
+  {
+    "type": "node",
+    "id": 4360268726,
+    "name": "OMA CAFÉ",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8010299,
+    "lon": 98.9574374
+  },
+  {
+    "type": "node",
+    "id": 4360270662,
+    "name": "สเต็กอ้วนผอม",
+    "name_th": "สเต็กอ้วนผอม",
+    "name_en": "Steak Uan Phom",
+    "category": "restaurant",
+    "lat": 18.7999599,
+    "lon": 98.9607515
+  },
+  {
+    "type": "node",
+    "id": 4360571950,
+    "name": "RAWtruckr",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7916997,
+    "lon": 98.9582926
+  },
+  {
+    "type": "node",
+    "id": 4360574586,
+    "name": "D-Milk ไมโลดิบ",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.79184,
+    "lon": 98.9580416
+  },
+  {
+    "type": "node",
+    "id": 4360894092,
+    "name": "o hair",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7928995,
+    "lon": 98.9529359
+  },
+  {
+    "type": "node",
+    "id": 4362621673,
+    "name": "ชาชิมิ",
+    "name_th": "",
+    "name_en": "The Volcano",
+    "category": "cafe",
+    "lat": 18.7925164,
+    "lon": 98.9559727
+  },
+  {
+    "type": "node",
+    "id": 4362629883,
+    "name": "ร้านมนตรีถ่ายเอกสาร",
+    "name_th": "",
+    "name_en": "Jcc copy",
+    "category": "copyshop",
+    "lat": 18.7927399,
+    "lon": 98.9551681
+  },
+  {
+    "type": "node",
+    "id": 4401581689,
+    "name": "๑Coffee",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7992289,
+    "lon": 98.9619579
+  },
+  {
+    "type": "node",
+    "id": 4413425463,
+    "name": "Cafe Amazon",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.807375,
+    "lon": 98.957054
+  },
+  {
+    "type": "node",
+    "id": 4413425479,
+    "name": "Water Tower",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8077527,
+    "lon": 98.9565643
+  },
+  {
+    "type": "node",
+    "id": 4423151192,
+    "name": "Student Vintage Fair",
+    "name_th": "Student Vintage Fair",
+    "name_en": "",
+    "category": "clothes",
+    "lat": 18.8084516,
+    "lon": 98.9551346
+  },
+  {
+    "type": "node",
+    "id": 4430745091,
+    "name": "เจไม่จำเจ",
+    "name_th": "",
+    "name_en": "CMU Vegan",
+    "category": "restaurant",
+    "lat": 18.7911433,
+    "lon": 98.9588886
+  },
+  {
+    "type": "node",
+    "id": 4497798295,
+    "name": "Lanna Muay Thai",
+    "name_th": "",
+    "name_en": "",
+    "category": "fitness_centre",
+    "lat": 18.809394,
+    "lon": 98.9597876
+  },
+  {
+    "type": "node",
+    "id": 4559281281,
+    "name": "หมูติดแอร์",
+    "name_th": "หมูติดแอร์",
+    "name_en": "Mu Tit Air",
+    "category": "butcher",
+    "lat": 18.790438,
+    "lon": 98.960779
+  },
+  {
+    "type": "node",
+    "id": 4596318503,
+    "name": "บ้านทิวสุเทพ",
+    "name_th": "บ้านทิวสุเทพ",
+    "name_en": "Baan Tiewsuthep",
+    "category": "apartments",
+    "lat": 18.800946,
+    "lon": 98.9614314
+  },
+  {
+    "type": "node",
+    "id": 4596329814,
+    "name": "Uncle Panda",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8013412,
+    "lon": 98.9603566
+  },
+  {
+    "type": "node",
+    "id": 4596329815,
+    "name": "ที-ฮัท สเต็คเบงกอล",
+    "name_th": "ที-ฮัท สเต็คเบงกอล",
+    "name_en": "T-Hut Steak",
+    "category": "restaurant",
+    "lat": 18.801046,
+    "lon": 98.9604483
+  },
+  {
+    "type": "node",
+    "id": 4596336186,
+    "name": "วิวดอย",
+    "name_th": "วิวดอย",
+    "name_en": "View Doi",
+    "category": "restaurant",
+    "lat": 18.8002224,
+    "lon": 98.9606888
+  },
+  {
+    "type": "node",
+    "id": 4596374049,
+    "name": "ณัฏฐ์บิวตี้ซาลอน",
+    "name_th": "ณัฏฐ์บิวตี้ซาลอน",
+    "name_en": "Nat Beauty Salon",
+    "category": "hairdresser",
+    "lat": 18.7992229,
+    "lon": 98.9616871
+  },
+  {
+    "type": "node",
+    "id": 4596394519,
+    "name": "DoDee Hair",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.7992214,
+    "lon": 98.9617864
+  },
+  {
+    "type": "node",
+    "id": 4739211070,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.7935041,
+    "lon": 98.9521381
+  },
+  {
+    "type": "node",
+    "id": 4743290222,
+    "name": "คณะสถาปัตยกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of arts & architecture",
+    "category": "school",
+    "lat": 18.8106549,
+    "lon": 98.9570035
+  },
+  {
+    "type": "node",
+    "id": 4752385436,
+    "name": "กาแฟสดสังคม",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8028033,
+    "lon": 98.949618
+  },
+  {
+    "type": "node",
+    "id": 4759269487,
+    "name": "ฮักฟัน",
+    "name_th": "ฮักฟัน",
+    "name_en": "Hug Fun Dental",
+    "category": "dentist",
+    "lat": 18.8044967,
+    "lon": 98.9600535
+  },
+  {
+    "type": "node",
+    "id": 4811280524,
+    "name": "Art Roastery Huay Kaew",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.806441,
+    "lon": 98.9574681
+  },
+  {
+    "type": "node",
+    "id": 4843193921,
+    "name": "ภูเก็ตลายคราม",
+    "name_th": "ภูเก็ตลายคราม",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7914948,
+    "lon": 98.9588599
+  },
+  {
+    "type": "node",
+    "id": 5156653722,
+    "name": "โรซี่ ชีคส์",
+    "name_th": "",
+    "name_en": "Rosy-Cheeks",
+    "category": "restaurant",
+    "lat": 18.7908276,
+    "lon": 98.956691
+  },
+  {
+    "type": "node",
+    "id": 5286986121,
+    "name": "Best Khao Soi",
+    "name_th": "",
+    "name_en": "",
+    "category": "fast_food",
+    "lat": 18.8006451,
+    "lon": 98.9615637
+  },
+  {
+    "type": "node",
+    "id": 5330526121,
+    "name": "Chic Ka Ra Karaoke",
+    "name_th": "",
+    "name_en": "",
+    "category": "bar",
+    "lat": 18.8086476,
+    "lon": 98.9567667
+  },
+  {
+    "type": "node",
+    "id": 5344100721,
+    "name": "Nirvana Spa",
+    "name_th": "",
+    "name_en": "",
+    "category": "massage",
+    "lat": 18.8057875,
+    "lon": 98.9598789
+  },
+  {
+    "type": "node",
+    "id": 5346609684,
+    "name": "Coffee Shop",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7946037,
+    "lon": 98.9511352
+  },
+  {
+    "type": "node",
+    "id": 5346611571,
+    "name": "ร้านตัดเย็บผ้าเพ็ญ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7921537,
+    "lon": 98.9536111
+  },
+  {
+    "type": "node",
+    "id": 5346614636,
+    "name": "ร้านระเบียง",
+    "name_th": "",
+    "name_en": "Sushi, pasta and steak",
+    "category": "restaurant",
+    "lat": 18.7919404,
+    "lon": 98.9537694
+  },
+  {
+    "type": "node",
+    "id": 5346617694,
+    "name": "Moo Coffee",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7932502,
+    "lon": 98.9574056
+  },
+  {
+    "type": "node",
+    "id": 5346617708,
+    "name": "Fresh & Mild",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7936839,
+    "lon": 98.9570683
+  },
+  {
+    "type": "node",
+    "id": 5346617710,
+    "name": "ฮิมตาง คาเฟ่",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7939228,
+    "lon": 98.9568322
+  },
+  {
+    "type": "node",
+    "id": 5346617711,
+    "name": "ร้านถ่ายเอกสาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.7938098,
+    "lon": 98.9569972
+  },
+  {
+    "type": "node",
+    "id": 5346617712,
+    "name": "มิกุชา",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7938347,
+    "lon": 98.9569316
+  },
+  {
+    "type": "node",
+    "id": 5346631094,
+    "name": "ห้องพักครูสาธิต",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7948465,
+    "lon": 98.9547259
+  },
+  {
+    "type": "node",
+    "id": 5346631847,
+    "name": "หอพักปานฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7906331,
+    "lon": 98.9539764
+  },
+  {
+    "type": "node",
+    "id": 5346634506,
+    "name": "จุ่มขำมอ",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.792573,
+    "lon": 98.9585577
+  },
+  {
+    "type": "node",
+    "id": 5346634890,
+    "name": "นมเกษตร",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7934034,
+    "lon": 98.9589771
+  },
+  {
+    "type": "node",
+    "id": 5346636255,
+    "name": "ร้านอาหาร ร้านป้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7918293,
+    "lon": 98.9525395
+  },
+  {
+    "type": "node",
+    "id": 5426264832,
+    "name": "กาเเพลด ดอยหลาง",
+    "name_th": "",
+    "name_en": "Doiluang Coffee",
+    "category": "cafe",
+    "lat": 18.8104975,
+    "lon": 98.9487796
+  },
+  {
+    "type": "node",
+    "id": 5437853221,
+    "name": "약국",
+    "name_th": "",
+    "name_en": "",
+    "category": "pharmacy",
+    "lat": 18.7912134,
+    "lon": 98.9597649
+  },
+  {
+    "type": "node",
+    "id": 5558883026,
+    "name": "Wake Up Coffee",
+    "name_th": "",
+    "name_en": "WakeUp24Hrs",
+    "category": "cafe",
+    "lat": 18.8073064,
+    "lon": 98.9572208
+  },
+  {
+    "type": "node",
+    "id": 5591475899,
+    "name": "คณะรัฐศาสตร์และรัฐประศาสนศาสตร์",
+    "name_th": "คณะรัฐศาสตร์และรัฐประศาสนศาสตร์",
+    "name_en": "Faculty of Political Science and Public Administration",
+    "category": "university",
+    "lat": 18.8031483,
+    "lon": 98.9547675
+  },
+  {
+    "type": "node",
+    "id": 5591475900,
+    "name": "รูปปั้นสิงห์ขาว",
+    "name_th": "รูปปั้นสิงห์ขาว",
+    "name_en": "Singha Kao Statue",
+    "category": "",
+    "lat": 18.802968,
+    "lon": 98.9546146
+  },
+  {
+    "type": "node",
+    "id": 5591495429,
+    "name": "American Corner Chiang Mai",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8034223,
+    "lon": 98.9546258
+  },
+  {
+    "type": "node",
+    "id": 5591495441,
+    "name": "University Office Canteen",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8040133,
+    "lon": 98.9553498
+  },
+  {
+    "type": "node",
+    "id": 5593688307,
+    "name": "House of Spirit",
+    "name_th": "",
+    "name_en": "",
+    "category": "place_of_worship",
+    "lat": 18.8058643,
+    "lon": 98.9533041
+  },
+  {
+    "type": "node",
+    "id": 5603415674,
+    "name": "Visit CMU Tourist Electric Train",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8075854,
+    "lon": 98.9534797
+  },
+  {
+    "type": "node",
+    "id": 5650838139,
+    "name": "สำนักงาน อ.ส.ค. ภาคเหนือตอนบน",
+    "name_th": "",
+    "name_en": "DPO",
+    "category": "government",
+    "lat": 18.810949,
+    "lon": 98.9486165
+  },
+  {
+    "type": "node",
+    "id": 5651186769,
+    "name": "HAVE multibrand store",
+    "name_th": "",
+    "name_en": "",
+    "category": "clothes",
+    "lat": 18.8062105,
+    "lon": 98.9583704
+  },
+  {
+    "type": "node",
+    "id": 5791981255,
+    "name": "ที่พักฉันเอง",
+    "name_th": "",
+    "name_en": "I'm staying here",
+    "category": "",
+    "lat": 18.8005207,
+    "lon": 98.9588456
+  },
+  {
+    "type": "node",
+    "id": 6012268592,
+    "name": "คณะสังคมศาสตร์",
+    "name_th": "คณะสังคมศาสตร์",
+    "name_en": "Faculty of Social Sciences",
+    "category": "university",
+    "lat": 18.8025771,
+    "lon": 98.9499749
+  },
+  {
+    "type": "node",
+    "id": 6012305497,
+    "name": "สำนักหอสมุดมหาวิทยาลัยเชียงใหม่",
+    "name_th": "สำนักหอสมุดมหาวิทยาลัยเชียงใหม่",
+    "name_en": "Chiang Mai University Main Library",
+    "category": "library",
+    "lat": 18.8012174,
+    "lon": 98.9518471
+  },
+  {
+    "type": "node",
+    "id": 6012344207,
+    "name": "คณะวิทยาศาสตร์",
+    "name_th": "คณะวิทยาศาสตร์",
+    "name_en": "Faculty of Science",
+    "category": "university",
+    "lat": 18.8009661,
+    "lon": 98.9529401
+  },
+  {
+    "type": "node",
+    "id": 6012370690,
+    "name": "คณะเศรษฐศาสตร์",
+    "name_th": "คณะเศรษฐศาสตร์",
+    "name_en": "Faculty of Economics",
+    "category": "university",
+    "lat": 18.8017341,
+    "lon": 98.9496142
+  },
+  {
+    "type": "node",
+    "id": 6014798842,
+    "name": "คณะนิติศาสตร์",
+    "name_th": "คณะนิติศาสตร์",
+    "name_en": "Faculty of Law",
+    "category": "university",
+    "lat": 18.8047649,
+    "lon": 98.9481352
+  },
+  {
+    "type": "node",
+    "id": 6014812269,
+    "name": "คณะเกษตรศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Agriculture",
+    "category": "university",
+    "lat": 18.7934047,
+    "lon": 98.9598574
+  },
+  {
+    "type": "node",
+    "id": 6014826895,
+    "name": "คณะการสื่อสารมวลชน",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8013096,
+    "lon": 98.9475306
+  },
+  {
+    "type": "node",
+    "id": 6109002385,
+    "name": "แอนนิต้า คาเฟ่",
+    "name_th": "แอนนิต้า คาเฟ่",
+    "name_en": "Annista Cafe",
+    "category": "cafe",
+    "lat": 18.803347,
+    "lon": 98.9597874
+  },
+  {
+    "type": "node",
+    "id": 6255529249,
+    "name": "No 1. Beauty",
+    "name_th": "",
+    "name_en": "",
+    "category": "beauty",
+    "lat": 18.8084261,
+    "lon": 98.9550139
+  },
+  {
+    "type": "node",
+    "id": 6255529250,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.8085074,
+    "lon": 98.9548476
+  },
+  {
+    "type": "node",
+    "id": 6453568323,
+    "name": "ร้านลุงช้าง",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7989518,
+    "lon": 98.9583863
+  },
+  {
+    "type": "node",
+    "id": 6519106997,
+    "name": "ร้านขายยา ใส่ใจ",
+    "name_th": "",
+    "name_en": "",
+    "category": "pharmacy",
+    "lat": 18.7919654,
+    "lon": 98.9573892
+  },
+  {
+    "type": "node",
+    "id": 6519106998,
+    "name": "Fairy",
+    "name_th": "",
+    "name_en": "",
+    "category": "dentist",
+    "lat": 18.7919635,
+    "lon": 98.957416
+  },
+  {
+    "type": "node",
+    "id": 6519106999,
+    "name": "ร้านขายยา",
+    "name_th": "",
+    "name_en": "",
+    "category": "pharmacy",
+    "lat": 18.7916787,
+    "lon": 98.9583508
+  },
+  {
+    "type": "node",
+    "id": 6557943259,
+    "name": "หมอยาสุเทพ",
+    "name_th": "",
+    "name_en": "",
+    "category": "pharmacy",
+    "lat": 18.8057833,
+    "lon": 98.9594163
+  },
+  {
+    "type": "node",
+    "id": 6558265540,
+    "name": "Dental Joy Clinic",
+    "name_th": "",
+    "name_en": "",
+    "category": "dentist",
+    "lat": 18.8004862,
+    "lon": 98.9607038
+  },
+  {
+    "type": "node",
+    "id": 6868936918,
+    "name": "camt minipark and water fountain roundabout",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.800442,
+    "lon": 98.9509389
+  },
+  {
+    "type": "node",
+    "id": 6947381871,
+    "name": "Chef Clint Bistro",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8063361,
+    "lon": 98.9588653
+  },
+  {
+    "type": "node",
+    "id": 6947395542,
+    "name": "Sarah House CM",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8012725,
+    "lon": 98.9607508
+  },
+  {
+    "type": "node",
+    "id": 6947410315,
+    "name": "Shop Jui (Smoothies)",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8044581,
+    "lon": 98.9617618
+  },
+  {
+    "type": "node",
+    "id": 6947418096,
+    "name": "Cafe Mong Pearl",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8060511,
+    "lon": 98.9594287
+  },
+  {
+    "type": "node",
+    "id": 7103895585,
+    "name": "ล้านกาแฟต้นบะขาม",
+    "name_th": "",
+    "name_en": "ล้านกาแฟต้นบะขาม​ (Million coffee)",
+    "category": "restaurant",
+    "lat": 18.7903334,
+    "lon": 98.9517298
+  },
+  {
+    "type": "node",
+    "id": 7103928285,
+    "name": "ร้านซุปกระดูกแม่โจ้สาขาหลังมช.",
+    "name_th": "ร้านซุปกระดูกแม่โจ้สา",
+    "name_en": "Ma jo sa bone soup shop",
+    "category": "restaurant",
+    "lat": 18.7916404,
+    "lon": 98.95181
+  },
+  {
+    "type": "node",
+    "id": 7106499686,
+    "name": "ราชาหมูทอด - เล้งแซ่บ สาขา 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7941939,
+    "lon": 98.9495728
+  },
+  {
+    "type": "node",
+    "id": 7111486286,
+    "name": "ขนมจีนหล่มเก่า",
+    "name_th": "",
+    "name_en": "Rom khao",
+    "category": "restaurant",
+    "lat": 18.7920304,
+    "lon": 98.9516534
+  },
+  {
+    "type": "node",
+    "id": 7116881509,
+    "name": "วิทยาลัยศิลปะ สื่อ และเทคโนโลยี",
+    "name_th": "",
+    "name_en": "College of Arts, Media and Technology",
+    "category": "university",
+    "lat": 18.8007052,
+    "lon": 98.9505913
+  },
+  {
+    "type": "node",
+    "id": 7123832486,
+    "name": "ครัววิไล",
+    "name_th": "",
+    "name_en": "Wilai",
+    "category": "restaurant",
+    "lat": 18.7928951,
+    "lon": 98.9532656
+  },
+  {
+    "type": "node",
+    "id": 7128196652,
+    "name": "ประตูเกษตร",
+    "name_th": "",
+    "name_en": "Chiang Mai University Agriculture Entrance",
+    "category": "",
+    "lat": 18.791757,
+    "lon": 98.9588021
+  },
+  {
+    "type": "node",
+    "id": 7128567392,
+    "name": "สุกี้ช้างเผือก",
+    "name_th": "",
+    "name_en": "Chang Phueak Suki Yaki",
+    "category": "restaurant",
+    "lat": 18.7924921,
+    "lon": 98.9560861
+  },
+  {
+    "type": "node",
+    "id": 7136176764,
+    "name": "Coffee Munao",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8003986,
+    "lon": 98.9588544
+  },
+  {
+    "type": "node",
+    "id": 7153515832,
+    "name": "สํานักงานมหาวิทยาลัย 1",
+    "name_th": "",
+    "name_en": "Office of the University (1)",
+    "category": "",
+    "lat": 18.8049385,
+    "lon": 98.9544676
+  },
+  {
+    "type": "node",
+    "id": 7501426910,
+    "name": "Woods Bar Rooftop",
+    "name_th": "",
+    "name_en": "",
+    "category": "bar",
+    "lat": 18.8045255,
+    "lon": 98.9612747
+  },
+  {
+    "type": "node",
+    "id": 7576696416,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7981007,
+    "lon": 98.9546312
+  },
+  {
+    "type": "node",
+    "id": 7576895302,
+    "name": "หอพักหญิง6",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7975776,
+    "lon": 98.9538816
+  },
+  {
+    "type": "node",
+    "id": 7579280681,
+    "name": "คาเฟ่ อเมซอน",
+    "name_th": "คาเฟ่ อเมซอน",
+    "name_en": "Café Amazon",
+    "category": "cafe",
+    "lat": 18.792178,
+    "lon": 98.9582629
+  },
+  {
+    "type": "node",
+    "id": 7735597043,
+    "name": "คุโมะ ชาบู",
+    "name_th": "",
+    "name_en": "Kumo Shbu",
+    "category": "restaurant",
+    "lat": 18.7917512,
+    "lon": 98.9553276
+  },
+  {
+    "type": "node",
+    "id": 7882720536,
+    "name": "เป๋าตุง cuisine",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7994751,
+    "lon": 98.9484272
+  },
+  {
+    "type": "node",
+    "id": 7882720537,
+    "name": "สเต็ก ฝายหิน",
+    "name_th": "",
+    "name_en": "Fai hin steak",
+    "category": "restaurant",
+    "lat": 18.7995045,
+    "lon": 98.9484308
+  },
+  {
+    "type": "node",
+    "id": 7882720538,
+    "name": "ป๋าติ๋ม น้ำผลไม้ปั่น",
+    "name_th": "",
+    "name_en": "aunt Tim| blended fruit juice",
+    "category": "beverages",
+    "lat": 18.7994642,
+    "lon": 98.9486808
+  },
+  {
+    "type": "node",
+    "id": 7882720539,
+    "name": "พระคุณ ผลไม้ปั่น",
+    "name_th": "",
+    "name_en": "Phrakun| blended fruit",
+    "category": "beverages",
+    "lat": 18.7994626,
+    "lon": 98.9487126
+  },
+  {
+    "type": "node",
+    "id": 7882720540,
+    "name": "ฟลุ๊ค-ฟ้า สลัดฝายหิน",
+    "name_th": "",
+    "name_en": "Fluk-Fah| Fai hin Salad",
+    "category": "restaurant",
+    "lat": 18.7994902,
+    "lon": 98.9487129
+  },
+  {
+    "type": "node",
+    "id": 7947494782,
+    "name": "ร้านสเต็ก",
+    "name_th": "",
+    "name_en": "Steak",
+    "category": "restaurant",
+    "lat": 18.7977631,
+    "lon": 98.9526492
+  },
+  {
+    "type": "node",
+    "id": 7947494784,
+    "name": "กั๊ตชา",
+    "name_th": "",
+    "name_en": "",
+    "category": "beverages",
+    "lat": 18.7985665,
+    "lon": 98.9528648
+  },
+  {
+    "type": "node",
+    "id": 7947528785,
+    "name": "TT minimart",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.7985676,
+    "lon": 98.9529841
+  },
+  {
+    "type": "node",
+    "id": 8167514440,
+    "name": "สุเทพ",
+    "name_th": "",
+    "name_en": "Suthep",
+    "category": "",
+    "lat": 18.7924876,
+    "lon": 98.9526159
+  },
+  {
+    "type": "node",
+    "id": 8829264539,
+    "name": "อีสต์ คลินิก",
+    "name_th": "อีสต์ คลินิก",
+    "name_en": "East Clinic",
+    "category": "doctors",
+    "lat": 18.8035635,
+    "lon": 98.9597623
+  },
+  {
+    "type": "node",
+    "id": 8829267934,
+    "name": "อีเดน คลินิกเวชกรรม",
+    "name_th": "อีเดน คลินิกเวชกรรม",
+    "name_en": "E-Den Clinic",
+    "category": "dentist",
+    "lat": 18.8036867,
+    "lon": 98.9597717
+  },
+  {
+    "type": "node",
+    "id": 8829267935,
+    "name": "Lamour Haircut",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.8037667,
+    "lon": 98.9597824
+  },
+  {
+    "type": "node",
+    "id": 8829279589,
+    "name": "คลินิกทันตกรรม ดับเบิ้ลยู เชียงใหม่",
+    "name_th": "คลินิกทันตกรรม ดับเบิ้ลยู เชียงใหม่",
+    "name_en": "W Chiangmai Dental Clinic",
+    "category": "dentist",
+    "lat": 18.8029427,
+    "lon": 98.9599031
+  },
+  {
+    "type": "node",
+    "id": 8829292317,
+    "name": "คูมิ คลินิกเวชกรรม",
+    "name_th": "คูมิ คลินิกเวชกรรม",
+    "name_en": "Kumi Clinic",
+    "category": "doctors",
+    "lat": 18.8031484,
+    "lon": 98.9598374
+  },
+  {
+    "type": "node",
+    "id": 8891863094,
+    "name": "ประตูฝายหิน",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7978031,
+    "lon": 98.9480378
+  },
+  {
+    "type": "node",
+    "id": 9084096823,
+    "name": "Milk on the rock",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.791156,
+    "lon": 98.9503705
+  },
+  {
+    "type": "node",
+    "id": 9455440417,
+    "name": "ขนมแม่",
+    "name_th": "",
+    "name_en": "Kanom-Mae",
+    "category": "cafe",
+    "lat": 18.7919368,
+    "lon": 98.9578724
+  },
+  {
+    "type": "node",
+    "id": 9915192025,
+    "name": "กาดหน้ามอ",
+    "name_th": "",
+    "name_en": "Kad Na Mor (Market in front if the University)",
+    "category": "restaurant",
+    "lat": 18.8085049,
+    "lon": 98.9557478
+  },
+  {
+    "type": "node",
+    "id": 10142982060,
+    "name": "Malee Home",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8023409,
+    "lon": 98.9584279
+  },
+  {
+    "type": "node",
+    "id": 10203798306,
+    "name": "Jeong Atmosphere",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7908965,
+    "lon": 98.9533287
+  },
+  {
+    "type": "node",
+    "id": 10310248477,
+    "name": "Trial Not Error",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7926931,
+    "lon": 98.9539963
+  },
+  {
+    "type": "node",
+    "id": 10539665704,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7955044,
+    "lon": 98.9530874
+  },
+  {
+    "type": "node",
+    "id": 10539665707,
+    "name": "403",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7958572,
+    "lon": 98.9528029
+  },
+  {
+    "type": "node",
+    "id": 10539762411,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957222,
+    "lon": 98.9527156
+  },
+  {
+    "type": "node",
+    "id": 10539762424,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7955611,
+    "lon": 98.9529626
+  },
+  {
+    "type": "node",
+    "id": 10539762427,
+    "name": "422",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957108,
+    "lon": 98.9526545
+  },
+  {
+    "type": "node",
+    "id": 10539762431,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.795787,
+    "lon": 98.9529869
+  },
+  {
+    "type": "node",
+    "id": 10539762436,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957871,
+    "lon": 98.952987
+  },
+  {
+    "type": "node",
+    "id": 10539762444,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957485,
+    "lon": 98.9528406
+  },
+  {
+    "type": "node",
+    "id": 10539762454,
+    "name": "ห้องน้ำชาย",
+    "name_th": "",
+    "name_en": "",
+    "category": "toilets",
+    "lat": 18.7956423,
+    "lon": 98.9526541
+  },
+  {
+    "type": "node",
+    "id": 10539762457,
+    "name": "ห้องธุรการ",
+    "name_th": "",
+    "name_en": "",
+    "category": "association",
+    "lat": 18.7957808,
+    "lon": 98.9528265
+  },
+  {
+    "type": "node",
+    "id": 10539762463,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957508,
+    "lon": 98.9530015
+  },
+  {
+    "type": "node",
+    "id": 10539762473,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7956798,
+    "lon": 98.9526882
+  },
+  {
+    "type": "node",
+    "id": 10539762476,
+    "name": "ห้องเก็บของ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957463,
+    "lon": 98.9529313
+  },
+  {
+    "type": "node",
+    "id": 10539762483,
+    "name": "ทางออกฉุกเฉิน",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957672,
+    "lon": 98.9529513
+  },
+  {
+    "type": "node",
+    "id": 10539762499,
+    "name": "ห้องปฎิบัติการ",
+    "name_th": "",
+    "name_en": "",
+    "category": "educational_institution",
+    "lat": 18.7956333,
+    "lon": 98.9530615
+  },
+  {
+    "type": "node",
+    "id": 10539762502,
+    "name": "401",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957716,
+    "lon": 98.9526704
+  },
+  {
+    "type": "node",
+    "id": 10539762508,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7955607,
+    "lon": 98.9529214
+  },
+  {
+    "type": "node",
+    "id": 10539762515,
+    "name": "ห้องปฎิบัติการ",
+    "name_th": "",
+    "name_en": "",
+    "category": "educational_institution",
+    "lat": 18.7957039,
+    "lon": 98.9526615
+  },
+  {
+    "type": "node",
+    "id": 10539762517,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958217,
+    "lon": 98.952853
+  },
+  {
+    "type": "node",
+    "id": 10539762545,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7954512,
+    "lon": 98.9530432
+  },
+  {
+    "type": "node",
+    "id": 10539762547,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958589,
+    "lon": 98.9527314
+  },
+  {
+    "type": "node",
+    "id": 10539762548,
+    "name": "ห้องไฟฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956496,
+    "lon": 98.952679
+  },
+  {
+    "type": "node",
+    "id": 10539762563,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958606,
+    "lon": 98.9527954
+  },
+  {
+    "type": "node",
+    "id": 10539762582,
+    "name": "ห้องพัสดุ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7958081,
+    "lon": 98.9527993
+  },
+  {
+    "type": "node",
+    "id": 10539762593,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958591,
+    "lon": 98.9527315
+  },
+  {
+    "type": "node",
+    "id": 10539762610,
+    "name": "521",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956014,
+    "lon": 98.9528245
+  },
+  {
+    "type": "node",
+    "id": 10539762615,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7955609,
+    "lon": 98.9529625
+  },
+  {
+    "type": "node",
+    "id": 10539762619,
+    "name": "ห้องน้ำหญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "toilets",
+    "lat": 18.7955789,
+    "lon": 98.952654
+  },
+  {
+    "type": "node",
+    "id": 10539762622,
+    "name": "413A",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7954697,
+    "lon": 98.9529056
+  },
+  {
+    "type": "node",
+    "id": 10539762629,
+    "name": "ห้องพักนักศึกษา",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957142,
+    "lon": 98.9528152
+  },
+  {
+    "type": "node",
+    "id": 10539762635,
+    "name": "ห้องเก็บของ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956066,
+    "lon": 98.9526453
+  },
+  {
+    "type": "node",
+    "id": 10539762643,
+    "name": "411",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957006,
+    "lon": 98.9530602
+  },
+  {
+    "type": "node",
+    "id": 10539762650,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957509,
+    "lon": 98.9530016
+  },
+  {
+    "type": "node",
+    "id": 10539762658,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957478,
+    "lon": 98.9528001
+  },
+  {
+    "type": "node",
+    "id": 10539762663,
+    "name": "ห้องไฟฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956494,
+    "lon": 98.9526789
+  },
+  {
+    "type": "node",
+    "id": 10539762667,
+    "name": "413",
+    "name_th": "",
+    "name_en": "",
+    "category": "educational_institution",
+    "lat": 18.7954896,
+    "lon": 98.9529852
+  },
+  {
+    "type": "node",
+    "id": 10539762670,
+    "name": "412",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7955552,
+    "lon": 98.953074
+  },
+  {
+    "type": "node",
+    "id": 10539762673,
+    "name": "ห้องน้ำชาย",
+    "name_th": "",
+    "name_en": "",
+    "category": "toilets",
+    "lat": 18.7956421,
+    "lon": 98.952654
+  },
+  {
+    "type": "node",
+    "id": 10539762686,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7954811,
+    "lon": 98.9530363
+  },
+  {
+    "type": "node",
+    "id": 10539762688,
+    "name": "ห้องไฟฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956493,
+    "lon": 98.95269
+  },
+  {
+    "type": "node",
+    "id": 10539762689,
+    "name": "ห้องเก็บของ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956068,
+    "lon": 98.9526455
+  },
+  {
+    "type": "node",
+    "id": 10539762698,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958195,
+    "lon": 98.9528581
+  },
+  {
+    "type": "node",
+    "id": 10539762714,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7955608,
+    "lon": 98.9529215
+  },
+  {
+    "type": "node",
+    "id": 10539762717,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958603,
+    "lon": 98.952847
+  },
+  {
+    "type": "node",
+    "id": 10539762734,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7955331,
+    "lon": 98.9527818
+  },
+  {
+    "type": "node",
+    "id": 10539762737,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957841,
+    "lon": 98.9528901
+  },
+  {
+    "type": "node",
+    "id": 10539762741,
+    "name": "501",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957773,
+    "lon": 98.9526705
+  },
+  {
+    "type": "node",
+    "id": 10539762748,
+    "name": "ทางออกฉุกเฉิน",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957671,
+    "lon": 98.9529512
+  },
+  {
+    "type": "node",
+    "id": 10539762760,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7954617,
+    "lon": 98.9530787
+  },
+  {
+    "type": "node",
+    "id": 10539762763,
+    "name": "402",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7958367,
+    "lon": 98.9526724
+  },
+  {
+    "type": "node",
+    "id": 10539762778,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957903,
+    "lon": 98.9528506
+  },
+  {
+    "type": "node",
+    "id": 10539762789,
+    "name": "OASYS Lab",
+    "name_th": "",
+    "name_en": "",
+    "category": "educational_institution",
+    "lat": 18.795522,
+    "lon": 98.9530557
+  },
+  {
+    "type": "node",
+    "id": 10539762790,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7957842,
+    "lon": 98.9528902
+  },
+  {
+    "type": "node",
+    "id": 10539762797,
+    "name": "ห้องพัสดุ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956753,
+    "lon": 98.952712
+  },
+  {
+    "type": "node",
+    "id": 10539762799,
+    "name": "ห้องน้ำ",
+    "name_th": "",
+    "name_en": "",
+    "category": "toilets",
+    "lat": 18.7957926,
+    "lon": 98.9529204
+  },
+  {
+    "type": "node",
+    "id": 10539762807,
+    "name": "ลิฟต์",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956328,
+    "lon": 98.9527163
+  },
+  {
+    "type": "node",
+    "id": 10539762809,
+    "name": "ห้องเก็บของ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7957462,
+    "lon": 98.9529311
+  },
+  {
+    "type": "node",
+    "id": 10539762810,
+    "name": "ห้องน้ำ",
+    "name_th": "",
+    "name_en": "",
+    "category": "toilets",
+    "lat": 18.7957927,
+    "lon": 98.9529205
+  },
+  {
+    "type": "node",
+    "id": 10539762824,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7958603,
+    "lon": 98.9528517
+  },
+  {
+    "type": "node",
+    "id": 10539762828,
+    "name": "ห้องน้ำหญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "toilets",
+    "lat": 18.7955788,
+    "lon": 98.9526538
+  },
+  {
+    "type": "node",
+    "id": 10539762832,
+    "name": "502",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7958483,
+    "lon": 98.952671
+  },
+  {
+    "type": "node",
+    "id": 10539762836,
+    "name": "415",
+    "name_th": "",
+    "name_en": "",
+    "category": "educational_institution",
+    "lat": 18.7955791,
+    "lon": 98.9528286
+  },
+  {
+    "type": "node",
+    "id": 10539762851,
+    "name": "516",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956656,
+    "lon": 98.9530607
+  },
+  {
+    "type": "node",
+    "id": 10539762856,
+    "name": "ห้องไฟฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956494,
+    "lon": 98.9526902
+  },
+  {
+    "type": "node",
+    "id": 10539762869,
+    "name": "ลิฟต์",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7956326,
+    "lon": 98.9527162
+  },
+  {
+    "type": "node",
+    "id": 10539762871,
+    "name": "518",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7954663,
+    "lon": 98.9529395
+  },
+  {
+    "type": "node",
+    "id": 10539762872,
+    "name": "ห้องพักอาจารย์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.795533,
+    "lon": 98.9527817
+  },
+  {
+    "type": "node",
+    "id": 10603098874,
+    "name": "กาดโก้งโค้ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7919423,
+    "lon": 98.9590589
+  },
+  {
+    "type": "node",
+    "id": 10609570159,
+    "name": "โต๊ะสาธารณะ",
+    "name_th": "",
+    "name_en": "",
+    "category": "park",
+    "lat": 18.7970056,
+    "lon": 98.9516371
+  },
+  {
+    "type": "node",
+    "id": 10615085926,
+    "name": "ตู้เต่าบิน (tao-bin)",
+    "name_th": "",
+    "name_en": "",
+    "category": "vending_machine",
+    "lat": 18.7953127,
+    "lon": 98.95152
+  },
+  {
+    "type": "node",
+    "id": 10615156352,
+    "name": "ตู้เต่าบิน(tao-bin)",
+    "name_th": "",
+    "name_en": "",
+    "category": "vending_machine",
+    "lat": 18.7949082,
+    "lon": 98.9524387
+  },
+  {
+    "type": "node",
+    "id": 10615177134,
+    "name": "ตู้เต่าบิน(tao-bin)",
+    "name_th": "",
+    "name_en": "",
+    "category": "vending_machine",
+    "lat": 18.795527,
+    "lon": 98.9524599
+  },
+  {
+    "type": "node",
+    "id": 10617696838,
+    "name": "สุภัทรา",
+    "name_th": "",
+    "name_en": "Supattra x JourneyMan",
+    "category": "restaurant",
+    "lat": 18.7940049,
+    "lon": 98.950361
+  },
+  {
+    "type": "node",
+    "id": 10617696839,
+    "name": "บ้านสาธิต by Raintree",
+    "name_th": "",
+    "name_en": "Baan Satit by Raintree",
+    "category": "",
+    "lat": 18.7938117,
+    "lon": 98.9496875
+  },
+  {
+    "type": "node",
+    "id": 10618376817,
+    "name": "Au Choix Coffee",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8035006,
+    "lon": 98.9535067
+  },
+  {
+    "type": "node",
+    "id": 10620278581,
+    "name": "Ice Skate’s Crepe - เครปไอติมหลัง มช.",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7923606,
+    "lon": 98.95592
+  },
+  {
+    "type": "node",
+    "id": 10621676863,
+    "name": "ตู้กดน้ำและขนม",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7966994,
+    "lon": 98.9525915
+  },
+  {
+    "type": "node",
+    "id": 10651172144,
+    "name": "ห้องสมุด คณะวิศวกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Engineering Library",
+    "category": "",
+    "lat": 18.7942225,
+    "lon": 98.95092
+  },
+  {
+    "type": "node",
+    "id": 10651182179,
+    "name": "โรงจอดรถ คณะวิศวกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Engineering Garage",
+    "category": "",
+    "lat": 18.7966482,
+    "lon": 98.9503532
+  },
+  {
+    "type": "node",
+    "id": 10651186748,
+    "name": "อาคาร 30 ปี คณะวิศวกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "30th Anniversary Building, Faculty of Engineering",
+    "category": "",
+    "lat": 18.7956119,
+    "lon": 98.9525881
+  },
+  {
+    "type": "node",
+    "id": 10651643123,
+    "name": "ห้องเรียนinnovation",
+    "name_th": "",
+    "name_en": "",
+    "category": "educational_institution",
+    "lat": 18.7991548,
+    "lon": 98.9506462
+  },
+  {
+    "type": "node",
+    "id": 10651653982,
+    "name": "ห้องชมรมชั่วคราว",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7952667,
+    "lon": 98.9492255
+  },
+  {
+    "type": "node",
+    "id": 10653618699,
+    "name": "Kbank",
+    "name_th": "",
+    "name_en": "",
+    "category": "atm",
+    "lat": 18.7913084,
+    "lon": 98.9594268
+  },
+  {
+    "type": "node",
+    "id": 10654233602,
+    "name": "LAW COFF & CO",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7924327,
+    "lon": 98.9558061
+  },
+  {
+    "type": "node",
+    "id": 10655269505,
+    "name": "Double A fastprint คณะรัฐศาสตร์ ชั้น 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "printer_ink",
+    "lat": 18.8035381,
+    "lon": 98.9545176
+  },
+  {
+    "type": "node",
+    "id": 10744523184,
+    "name": "Dental Buddy Clinic (เดนทัลบัดดี้คลินิก)",
+    "name_th": "",
+    "name_en": "",
+    "category": "hospital",
+    "lat": 18.791478,
+    "lon": 98.9589597
+  },
+  {
+    "type": "node",
+    "id": 10793159227,
+    "name": "Ming Zhen",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8090198,
+    "lon": 98.953999
+  },
+  {
+    "type": "node",
+    "id": 10836941005,
+    "name": "Food 4 thought",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8060406,
+    "lon": 98.9616048
+  },
+  {
+    "type": "node",
+    "id": 10855533287,
+    "name": "Basecamp trail cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7941517,
+    "lon": 98.9483393
+  },
+  {
+    "type": "node",
+    "id": 11370436480,
+    "name": "ศาลพระภูมิ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8097257,
+    "lon": 98.9494864
+  },
+  {
+    "type": "node",
+    "id": 11449192069,
+    "name": "ข้าวต้มบุษบา",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.793969,
+    "lon": 98.9513017
+  },
+  {
+    "type": "node",
+    "id": 11465096769,
+    "name": "ร้านอาหารเฮือนห้วยแก้ว",
+    "name_th": "",
+    "name_en": "Huen Huai Kaeo Restaurant",
+    "category": "restaurant",
+    "lat": 18.8117361,
+    "lon": 98.945557
+  },
+  {
+    "type": "node",
+    "id": 11513439400,
+    "name": "Roi Dvarapala Ban Devalaya",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.793509,
+    "lon": 98.9475219
+  },
+  {
+    "type": "node",
+    "id": 11830204333,
+    "name": "sand Test",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8048557,
+    "lon": 98.9604434
+  },
+  {
+    "type": "node",
+    "id": 12031519067,
+    "name": "Café Amazon",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7968752,
+    "lon": 98.9608754
+  },
+  {
+    "type": "node",
+    "id": 12224171159,
+    "name": "Farmers market",
+    "name_th": "",
+    "name_en": "",
+    "category": "marketplace",
+    "lat": 18.7914812,
+    "lon": 98.9598351
+  },
+  {
+    "type": "node",
+    "id": 12243094321,
+    "name": "Mystery Art Toy & Cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "collector",
+    "lat": 18.7919429,
+    "lon": 98.95295
+  },
+  {
+    "type": "node",
+    "id": 12523097855,
+    "name": "BM DIARY coffee",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7913399,
+    "lon": 98.958218
+  },
+  {
+    "type": "node",
+    "id": 12731348809,
+    "name": "ไผ่ล้อม คลินิก",
+    "name_th": "",
+    "name_en": "",
+    "category": "pharmacy",
+    "lat": 18.7991442,
+    "lon": 98.9553796
+  },
+  {
+    "type": "node",
+    "id": 12856044897,
+    "name": "โรงอาหารคณะสังคมศาสตร์",
+    "name_th": "",
+    "name_en": "Social Sciences Canteen",
+    "category": "food_court",
+    "lat": 18.8020439,
+    "lon": 98.9502981
+  },
+  {
+    "type": "node",
+    "id": 12856044898,
+    "name": "ร้านสหกรณ์มหาวิทยาลัยเชียงใหม่ จำกัด",
+    "name_th": "ร้านสหกรณ์มหาวิทยาลัยเชียงใหม่ จำกัด",
+    "name_en": "Chiang Mai University Cooperative Store",
+    "category": "convenience",
+    "lat": 18.8016745,
+    "lon": 98.9507474
+  },
+  {
+    "type": "node",
+    "id": 12856048975,
+    "name": "คณะสถาปัตยกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Architecture",
+    "category": "university",
+    "lat": 18.7984486,
+    "lon": 98.9487144
+  },
+  {
+    "type": "node",
+    "id": 12861030508,
+    "name": "Noi's Cuisine",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8006182,
+    "lon": 98.9584413
+  },
+  {
+    "type": "node",
+    "id": 12886087009,
+    "name": "อาคาร 4 คณะศึกษาศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Education - Building 4",
+    "category": "",
+    "lat": 18.7925498,
+    "lon": 98.9567844
+  },
+  {
+    "type": "node",
+    "id": 12886087010,
+    "name": "อาคารจอดรถ S1",
+    "name_th": "",
+    "name_en": "S1 Car Park",
+    "category": "",
+    "lat": 18.792374,
+    "lon": 98.9575195
+  },
+  {
+    "type": "node",
+    "id": 12886087011,
+    "name": "CMU Food Center",
+    "name_th": "",
+    "name_en": "CMU Food Center",
+    "category": "",
+    "lat": 18.7989233,
+    "lon": 98.9504862
+  },
+  {
+    "type": "node",
+    "id": 12886087012,
+    "name": "อ.มช.",
+    "name_th": "",
+    "name_en": "Student union",
+    "category": "",
+    "lat": 18.8002979,
+    "lon": 98.9532765
+  },
+  {
+    "type": "node",
+    "id": 12886087013,
+    "name": "ไปรษณีย์",
+    "name_th": "",
+    "name_en": "Post Office",
+    "category": "",
+    "lat": 18.8044301,
+    "lon": 98.9539214
+  },
+  {
+    "type": "node",
+    "id": 12886087014,
+    "name": "ลานจอดรถหน้า มช.",
+    "name_th": "",
+    "name_en": "Main Entrance Car Park",
+    "category": "",
+    "lat": 18.8074496,
+    "lon": 98.9552663
+  },
+  {
+    "type": "node",
+    "id": 12898533385,
+    "name": "ลานจอดรถ CMU Food Center",
+    "name_th": "",
+    "name_en": "CMU Food Center Car Park",
+    "category": "",
+    "lat": 18.7989474,
+    "lon": 98.9515978
+  },
+  {
+    "type": "node",
+    "id": 12898770709,
+    "name": "สถานีกลาง รถไฟฟ้า (หอพักหญิง 3)",
+    "name_th": "",
+    "name_en": "Central Station",
+    "category": "",
+    "lat": 18.7993267,
+    "lon": 98.9527566
+  },
+  {
+    "type": "node",
+    "id": 12898770710,
+    "name": "ศูนย์ ขส.มช.",
+    "name_th": "",
+    "name_en": "CMU Public Transportation Center",
+    "category": "",
+    "lat": 18.7971692,
+    "lon": 98.9602305
+  },
+  {
+    "type": "node",
+    "id": 12898770711,
+    "name": "ภาควิชาสถิติ",
+    "name_th": "",
+    "name_en": "Department of Statistics",
+    "category": "",
+    "lat": 18.8028802,
+    "lon": 98.9542377
+  },
+  {
+    "type": "node",
+    "id": 12898770712,
+    "name": "หอพักหญิง 4",
+    "name_th": "",
+    "name_en": "Female Dormitory 4",
+    "category": "",
+    "lat": 18.7982945,
+    "lon": 98.9533269
+  },
+  {
+    "type": "node",
+    "id": 12898770713,
+    "name": "หมู่บ้านไผ่ล้อม",
+    "name_th": "",
+    "name_en": "Phai-Lom Village",
+    "category": "",
+    "lat": 18.8011805,
+    "lon": 98.9565311
+  },
+  {
+    "type": "node",
+    "id": 12898770714,
+    "name": "หอพักหญิง 5",
+    "name_th": "",
+    "name_en": "Female Dormitory 5",
+    "category": "",
+    "lat": 18.7983401,
+    "lon": 98.9551596
+  },
+  {
+    "type": "node",
+    "id": 12898770715,
+    "name": "หอพักหญิง 1",
+    "name_th": "",
+    "name_en": "Female Dormitory 1",
+    "category": "",
+    "lat": 18.7988369,
+    "lon": 98.9553077
+  },
+  {
+    "type": "node",
+    "id": 12898770716,
+    "name": "หอพักหญิง 8",
+    "name_th": "",
+    "name_en": "Female Dormitory 8",
+    "category": "",
+    "lat": 18.7980478,
+    "lon": 98.9553178
+  },
+  {
+    "type": "node",
+    "id": 12898770717,
+    "name": "สนามวอลเลย์บอล",
+    "name_th": "",
+    "name_en": "Volleyball Court",
+    "category": "",
+    "lat": 18.7994953,
+    "lon": 98.9565556
+  },
+  {
+    "type": "node",
+    "id": 12898770718,
+    "name": "สนามเทนนิส",
+    "name_th": "",
+    "name_en": "Tennis Court",
+    "category": "",
+    "lat": 18.7996213,
+    "lon": 98.9560333
+  },
+  {
+    "type": "node",
+    "id": 12898770719,
+    "name": "หอพัก 40 ปี",
+    "name_th": "",
+    "name_en": "40th Anniversary Dormitory",
+    "category": "",
+    "lat": 18.798825,
+    "lon": 98.9587802
+  },
+  {
+    "type": "node",
+    "id": 12898770720,
+    "name": "หมู่บ้านร่มสัก",
+    "name_th": "",
+    "name_en": "Rom-Sak Village",
+    "category": "",
+    "lat": 18.7996015,
+    "lon": 98.9491961
+  },
+  {
+    "type": "node",
+    "id": 12898770721,
+    "name": "ลานจอดรถหอพัก 40 ปี",
+    "name_th": "",
+    "name_en": "40th Anniversary Dormitory Car Park",
+    "category": "",
+    "lat": 18.7987289,
+    "lon": 98.9589385
+  },
+  {
+    "type": "node",
+    "id": 12898770722,
+    "name": "ภาควิชาวิศวกรรมไฟฟ้า",
+    "name_th": "",
+    "name_en": "Department of Electrical Engineering",
+    "category": "",
+    "lat": 18.7967662,
+    "lon": 98.9513848
+  },
+  {
+    "type": "node",
+    "id": 12898770723,
+    "name": "อาคาร 40 ปี คณะวิทยาศาสตร์",
+    "name_th": "",
+    "name_en": "40th Anniversary Building, Faculty of Science",
+    "category": "",
+    "lat": 18.8010921,
+    "lon": 98.956216
+  },
+  {
+    "type": "node",
+    "id": 12898770724,
+    "name": "อาคารเทคโนโลยีไอออนบีม 2",
+    "name_th": "",
+    "name_en": "Ion Beam Technology Building 2",
+    "category": "",
+    "lat": 18.8026889,
+    "lon": 98.9557823
+  },
+  {
+    "type": "node",
+    "id": 12898770725,
+    "name": "หอพักชาย 7",
+    "name_th": "",
+    "name_en": "Male Dormitory 7",
+    "category": "",
+    "lat": 18.7990903,
+    "lon": 98.9497199
+  },
+  {
+    "type": "node",
+    "id": 12898770726,
+    "name": "คณะการสื่อสารมวลชน",
+    "name_th": "",
+    "name_en": "Faculty of Mass Communication",
+    "category": "",
+    "lat": 18.8020951,
+    "lon": 98.9484625
+  },
+  {
+    "type": "node",
+    "id": 12898770727,
+    "name": "คณะสังคมศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Social Sciences",
+    "category": "",
+    "lat": 18.8031713,
+    "lon": 98.9497331
+  },
+  {
+    "type": "node",
+    "id": 12898770728,
+    "name": "อาคาร HB7",
+    "name_th": "",
+    "name_en": "HB7 Building",
+    "category": "",
+    "lat": 18.8032025,
+    "lon": 98.9501405
+  },
+  {
+    "type": "node",
+    "id": 12898770729,
+    "name": "คณะนิติศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Law",
+    "category": "",
+    "lat": 18.8043948,
+    "lon": 98.9479609
+  },
+  {
+    "type": "node",
+    "id": 12898770730,
+    "name": "อาคาร HB 6",
+    "name_th": "",
+    "name_en": "HB6 Building",
+    "category": "",
+    "lat": 18.8046748,
+    "lon": 98.9515447
+  },
+  {
+    "type": "node",
+    "id": 12898770731,
+    "name": "หอพักอ่างแก้ว",
+    "name_th": "",
+    "name_en": "Angkaew Dormitory",
+    "category": "",
+    "lat": 18.8045006,
+    "lon": 98.9492161
+  },
+  {
+    "type": "node",
+    "id": 12898770732,
+    "name": "โรงอาหารคณะรัฐศาสตร์และรัฐประศาสนศาสตร์",
+    "name_th": "",
+    "name_en": "Faculty of Political Science and Public Administration Canteen",
+    "category": "",
+    "lat": 18.8027996,
+    "lon": 98.9556922
+  },
+  {
+    "type": "node",
+    "id": 12898770733,
+    "name": "ลานจอดรถ S2",
+    "name_th": "",
+    "name_en": "S2 Car Park",
+    "category": "",
+    "lat": 18.794164,
+    "lon": 98.9521102
+  },
+  {
+    "type": "node",
+    "id": 12898770734,
+    "name": "หอพักหญิง 12",
+    "name_th": "",
+    "name_en": "Female Dormitory 12",
+    "category": "",
+    "lat": 18.7978677,
+    "lon": 98.9503742
+  },
+  {
+    "type": "node",
+    "id": 12898921896,
+    "name": "หอพักหญิง 5",
+    "name_th": "",
+    "name_en": "Female Dormitory 5",
+    "category": "",
+    "lat": 18.7980725,
+    "lon": 98.9542657
+  },
+  {
+    "type": "node",
+    "id": 12993678901,
+    "name": "Starbucks",
+    "name_th": "",
+    "name_en": "",
+    "category": "coffee",
+    "lat": 18.7991013,
+    "lon": 98.9511987
+  },
+  {
+    "type": "node",
+    "id": 12993682601,
+    "name": "Fresh & Mild",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.7992362,
+    "lon": 98.9511414
+  },
+  {
+    "type": "node",
+    "id": 13135635101,
+    "name": "Cozy Hub Hostel",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7926027,
+    "lon": 98.9539796
+  },
+  {
+    "type": "node",
+    "id": 13135642801,
+    "name": "Rolling Wash & Dry",
+    "name_th": "",
+    "name_en": "",
+    "category": "laundry",
+    "lat": 18.7928063,
+    "lon": 98.9530025
+  },
+  {
+    "type": "node",
+    "id": 13251111701,
+    "name": "เสียก๋วยเตี๋ยว",
+    "name_th": "",
+    "name_en": "Sia Noodle",
+    "category": "restaurant",
+    "lat": 18.7918398,
+    "lon": 98.9581056
+  },
+  {
+    "type": "node",
+    "id": 13251268201,
+    "name": "HO Cafe & Restaurant",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7922169,
+    "lon": 98.958332
+  },
+  {
+    "type": "node",
+    "id": 13253315843,
+    "name": "ศูนย์บริหารจัดการเมืองเพื่อความยั่งยืน",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8036138,
+    "lon": 98.9556334
+  },
+  {
+    "type": "node",
+    "id": 13277096501,
+    "name": "เพชรรัตน์ ติ่มซำ เชียงใหม่",
+    "name_th": "",
+    "name_en": "Phetcharat Dim Sum Chiang Mai",
+    "category": "restaurant",
+    "lat": 18.8012401,
+    "lon": 98.9603732
+  },
+  {
+    "type": "node",
+    "id": 13278937801,
+    "name": "ตาลน สวนนม อ่างแก้ว",
+    "name_th": "",
+    "name_en": "Ta Lon Suan Nom",
+    "category": "cafe",
+    "lat": 18.8070135,
+    "lon": 98.947917
+  },
+  {
+    "type": "node",
+    "id": 13371208902,
+    "name": "มุมสบายMo",
+    "name_th": "",
+    "name_en": "Moon Sabai",
+    "category": "restaurant",
+    "lat": 18.7991928,
+    "lon": 98.9613745
+  },
+  {
+    "type": "node",
+    "id": 13452160410,
+    "name": "สถานีกลาง รถไฟฟ้า (หอพักหญิง 3)",
+    "name_th": "",
+    "name_en": "Central Station",
+    "category": "",
+    "lat": 18.7994376,
+    "lon": 98.9527236
+  },
+  {
+    "type": "node",
+    "id": 13452160411,
+    "name": "CMU Food Center",
+    "name_th": "",
+    "name_en": "CMU Food Center",
+    "category": "",
+    "lat": 18.798971,
+    "lon": 98.9504881
+  },
+  {
+    "type": "node",
+    "id": 13462056601,
+    "name": "Red panda cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8090499,
+    "lon": 98.9538934
+  },
+  {
+    "type": "node",
+    "id": 13533496201,
+    "name": "U Store",
+    "name_th": "",
+    "name_en": "",
+    "category": "computer",
+    "lat": 18.792223,
+    "lon": 98.9582743
+  },
+  {
+    "type": "node",
+    "id": 13545183841,
+    "name": "start point",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7991264,
+    "lon": 98.9522866
+  },
+  {
+    "type": "node",
+    "id": 13545183847,
+    "name": "check point 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8009726,
+    "lon": 98.9524917
+  },
+  {
+    "type": "node",
+    "id": 13545183856,
+    "name": "Ending of path",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8043232,
+    "lon": 98.9506702
+  },
+  {
+    "type": "node",
+    "id": 13658267212,
+    "name": "Mixue",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.792668,
+    "lon": 98.9528645
+  },
+  {
+    "type": "node",
+    "id": 14254453001,
+    "name": "AQHaircut",
+    "name_th": "",
+    "name_en": "",
+    "category": "hairdresser",
+    "lat": 18.8106216,
+    "lon": 98.9580338
+  },
+  {
+    "type": "node",
+    "id": 14263218901,
+    "name": "ถ่ายเอกสาร พี่กุ้ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "copyshop",
+    "lat": 18.7911389,
+    "lon": 98.9564594
+  },
+  {
+    "type": "way",
+    "id": 21261727,
+    "name": "ถนนช่างเคี่ยน",
+    "name_th": "",
+    "name_en": "Chang Khian Road",
+    "category": "",
+    "lat": 18.8099621,
+    "lon": 98.9591939
+  },
+  {
+    "type": "way",
+    "id": 21261766,
+    "name": "ถนนช่างเคี่ยน",
+    "name_th": "ถนนช่างเคี่ยน",
+    "name_en": "Chiang Khian Road",
+    "category": "",
+    "lat": 18.8057786,
+    "lon": 98.9597371
+  },
+  {
+    "type": "way",
+    "id": 22803019,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7944915,
+    "lon": 98.9485776
+  },
+  {
+    "type": "way",
+    "id": 22803047,
+    "name": "ซอย ๑๐ เชิงดอย",
+    "name_th": "",
+    "name_en": "Soi 10 Cheungdoi",
+    "category": "",
+    "lat": 18.7993756,
+    "lon": 98.9473548
+  },
+  {
+    "type": "way",
+    "id": 22803070,
+    "name": "ซอยนครพิงค์ 1",
+    "name_th": "ซอยนครพิงค์ 1",
+    "name_en": "Soi Nakornping 1",
+    "category": "",
+    "lat": 18.8017887,
+    "lon": 98.9547878
+  },
+  {
+    "type": "way",
+    "id": 22803081,
+    "name": "",
+    "name_th": "",
+    "name_en": "Nakornping Road 1",
+    "category": "",
+    "lat": 18.7994943,
+    "lon": 98.9532677
+  },
+  {
+    "type": "way",
+    "id": 23311477,
+    "name": "สุเทพ ซอย 4 วัดอุโมงค์",
+    "name_th": "สุเทพ ซอย 4 วัดอุโมงค์",
+    "name_en": "Suthep Soi 4 Wat U Mong",
+    "category": "",
+    "lat": 18.7837734,
+    "lon": 98.9537581
+  },
+  {
+    "type": "way",
+    "id": 24028719,
+    "name": "ซอยเชียงราย 2",
+    "name_th": "ซอยเชียงราย 2",
+    "name_en": "Soi Chiang Rai 2",
+    "category": "",
+    "lat": 18.7964115,
+    "lon": 98.9540544
+  },
+  {
+    "type": "way",
+    "id": 24028907,
+    "name": "ซอย ๔๐๑ วังเหนึอ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7974715,
+    "lon": 98.9552606
+  },
+  {
+    "type": "way",
+    "id": 24028915,
+    "name": "ซอย ๔๐๑ วังเหนึอ",
+    "name_th": "",
+    "name_en": "401 Wangnua Lane",
+    "category": "",
+    "lat": 18.7974858,
+    "lon": 98.9543497
+  },
+  {
+    "type": "way",
+    "id": 24028930,
+    "name": "ซอย ๑๐๘ สันป่ตอง",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7986923,
+    "lon": 98.9532742
+  },
+  {
+    "type": "way",
+    "id": 24029107,
+    "name": "ถนน ๖ พิษณุโลก",
+    "name_th": "ถนน ๖ พิษณุโลก",
+    "name_en": "Phitsanulok Road 6",
+    "category": "",
+    "lat": 18.8042089,
+    "lon": 98.952336
+  },
+  {
+    "type": "way",
+    "id": 29417050,
+    "name": "ถนนช่างเคี่ยน ซอย 1",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 1",
+    "category": "",
+    "lat": 18.8068551,
+    "lon": 98.9599507
+  },
+  {
+    "type": "way",
+    "id": 42505008,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8102576,
+    "lon": 98.9503927
+  },
+  {
+    "type": "way",
+    "id": 56049250,
+    "name": "ถนนห้วยแก้ว ซอย3",
+    "name_th": "ถนนห้วยแก้ว ซอย3",
+    "name_en": "Huay Kaew Soi 3",
+    "category": "",
+    "lat": 18.8002845,
+    "lon": 98.9602586
+  },
+  {
+    "type": "way",
+    "id": 66355338,
+    "name": "ถนน ๖ พิษณุโลก",
+    "name_th": "ถนน ๖ พิษณุโลก",
+    "name_en": "Phitsanulok Road 6",
+    "category": "",
+    "lat": 18.7996416,
+    "lon": 98.9519367
+  },
+  {
+    "type": "way",
+    "id": 69559549,
+    "name": "ซอยสุขใจ",
+    "name_th": "",
+    "name_en": "Soi Sukjai",
+    "category": "",
+    "lat": 18.8058591,
+    "lon": 98.9623215
+  },
+  {
+    "type": "way",
+    "id": 69559566,
+    "name": "สุขใจซอย 2",
+    "name_th": "",
+    "name_en": "Sukjai Soi 2",
+    "category": "",
+    "lat": 18.8048533,
+    "lon": 98.9633408
+  },
+  {
+    "type": "way",
+    "id": 77768149,
+    "name": "ซอย ๙ เชิงดอย",
+    "name_th": "",
+    "name_en": "Soi 9 Cheungdoi",
+    "category": "",
+    "lat": 18.7931154,
+    "lon": 98.948233
+  },
+  {
+    "type": "way",
+    "id": 79890294,
+    "name": "ถนนห้วยแก้ว ซอย 3ง",
+    "name_th": "",
+    "name_en": "Huay Kaew Soi 3 gnu",
+    "category": "",
+    "lat": 18.8016188,
+    "lon": 98.9598258
+  },
+  {
+    "type": "way",
+    "id": 79890317,
+    "name": "Prestige Chiang Mai",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8048737,
+    "lon": 98.9607911
+  },
+  {
+    "type": "way",
+    "id": 79890340,
+    "name": "ถนน ห้วยแก้ว ซอย 3ข",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8052936,
+    "lon": 98.9566614
+  },
+  {
+    "type": "way",
+    "id": 91933252,
+    "name": "",
+    "name_th": "",
+    "name_en": "Faculty of Business Administration",
+    "category": "university",
+    "lat": 18.793952,
+    "lon": 98.9564361
+  },
+  {
+    "type": "way",
+    "id": 91933359,
+    "name": "อาคารเรียนคณะบริหารธุรกิจ2",
+    "name_th": "อาคารเรียนคณะบริหารธุระกิจ2",
+    "name_en": "Acc BA2",
+    "category": "university",
+    "lat": 18.7932087,
+    "lon": 98.9568775
+  },
+  {
+    "type": "way",
+    "id": 91933367,
+    "name": "โครงการหลวง",
+    "name_th": "",
+    "name_en": "Royal Project Shop",
+    "category": "convenience",
+    "lat": 18.7914085,
+    "lon": 98.9602643
+  },
+  {
+    "type": "way",
+    "id": 97702485,
+    "name": "สำนักบริการเทคโนโลยีสารสนเทศ",
+    "name_th": "สำนักบริการเทคโนโลยีสารสนเทศ",
+    "name_en": "Information Technology Service Center",
+    "category": "university",
+    "lat": 18.8037487,
+    "lon": 98.9528865
+  },
+  {
+    "type": "way",
+    "id": 97702487,
+    "name": "",
+    "name_th": "",
+    "name_en": "English Department",
+    "category": "university",
+    "lat": 18.8035113,
+    "lon": 98.9511586
+  },
+  {
+    "type": "way",
+    "id": 97702488,
+    "name": "SB2",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8024137,
+    "lon": 98.9497698
+  },
+  {
+    "type": "way",
+    "id": 97702489,
+    "name": "อาคารปฏิบัติการ",
+    "name_th": "อาคารปฏิบัติการ",
+    "name_en": "Operational building",
+    "category": "university",
+    "lat": 18.8027716,
+    "lon": 98.9490453
+  },
+  {
+    "type": "way",
+    "id": 97702490,
+    "name": "HB7",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8035784,
+    "lon": 98.9504921
+  },
+  {
+    "type": "way",
+    "id": 97702491,
+    "name": "SB4",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8029303,
+    "lon": 98.9492297
+  },
+  {
+    "type": "way",
+    "id": 97705960,
+    "name": "อาคาร 3",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7933045,
+    "lon": 98.9562405
+  },
+  {
+    "type": "way",
+    "id": 97705966,
+    "name": "สถาบันวิจัยพหุศาสตร์",
+    "name_th": "สถาบันวิจัยพหุศาสตร์",
+    "name_en": "Multidisciplinary Research Institute",
+    "category": "yes",
+    "lat": 18.7948863,
+    "lon": 98.9574189
+  },
+  {
+    "type": "way",
+    "id": 97705971,
+    "name": "คณะศึกษาศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7938335,
+    "lon": 98.9553836
+  },
+  {
+    "type": "way",
+    "id": 97986630,
+    "name": "โรงพยาบาลสัตว์เล็ก",
+    "name_th": "โรงพยาบาลสัตว์เล็ก",
+    "name_en": "Small Animal Teaching Hospital",
+    "category": "veterinary",
+    "lat": 18.7964041,
+    "lon": 98.9613675
+  },
+  {
+    "type": "way",
+    "id": 97987790,
+    "name": "ภูสรวง เพลส",
+    "name_th": "ภูสรวง เพลส",
+    "name_en": "Phusuang Place",
+    "category": "apartments",
+    "lat": 18.7990592,
+    "lon": 98.9611675
+  },
+  {
+    "type": "way",
+    "id": 107195559,
+    "name": "The Hill Park",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8067593,
+    "lon": 98.9605306
+  },
+  {
+    "type": "way",
+    "id": 117177758,
+    "name": "บ้านใหม่หลังมอ ซอย7",
+    "name_th": "บ้านใหม่หลังมอ ซอย7",
+    "name_en": "Ban Mai Lang Mo Soi 7",
+    "category": "",
+    "lat": 18.7914349,
+    "lon": 98.9503361
+  },
+  {
+    "type": "way",
+    "id": 117177762,
+    "name": "ซอย 6 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 6 บ้านใหม่หลังมอ",
+    "name_en": "Soi 6 Banmailangmo",
+    "category": "",
+    "lat": 18.7928239,
+    "lon": 98.9550763
+  },
+  {
+    "type": "way",
+    "id": 117177774,
+    "name": "ซอย 10 บ้านใหม่หลังมอ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7912358,
+    "lon": 98.9514785
+  },
+  {
+    "type": "way",
+    "id": 117177784,
+    "name": "ซอย ๘ เชิงดอย",
+    "name_th": "บ้านเชิงดอย ซอย3",
+    "name_en": "Soi 8 Chorengdoi",
+    "category": "",
+    "lat": 18.7939237,
+    "lon": 98.9512546
+  },
+  {
+    "type": "way",
+    "id": 117315171,
+    "name": "ช่างเคี่ยน ซอย 5",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 5",
+    "category": "",
+    "lat": 18.8107029,
+    "lon": 98.9585142
+  },
+  {
+    "type": "way",
+    "id": 117315172,
+    "name": "ช่างเคี่ยน ซอย 4",
+    "name_th": "ช่างเคี่ยน ซอย 4",
+    "name_en": "Chang Khian Soi 4",
+    "category": "",
+    "lat": 18.810207,
+    "lon": 98.9589492
+  },
+  {
+    "type": "way",
+    "id": 117315508,
+    "name": "ช่างเคี่ยน-เจ็ดยอด ซอย 2",
+    "name_th": "ช่างเคี่ยน-เจ็ดยอด ซอย2",
+    "name_en": "Chang Khian - Jet Yod Soi 2",
+    "category": "",
+    "lat": 18.8103866,
+    "lon": 98.9601888
+  },
+  {
+    "type": "way",
+    "id": 117315510,
+    "name": "ช่างเคี่ยน-เจ็ดยอด ซอย 3",
+    "name_th": "",
+    "name_en": "Chiang Khian Road - Jet Yod Soi 3",
+    "category": "",
+    "lat": 18.8091958,
+    "lon": 98.9608174
+  },
+  {
+    "type": "way",
+    "id": 125159723,
+    "name": "เชียงใหม่ฮิลล์",
+    "name_th": "เชียงใหม่ฮิลล์",
+    "name_en": "Chiang Mai Hill 2000",
+    "category": "yes",
+    "lat": 18.8043231,
+    "lon": 98.9618288
+  },
+  {
+    "type": "way",
+    "id": 130774328,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8053881,
+    "lon": 98.9603074
+  },
+  {
+    "type": "way",
+    "id": 130774332,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8053881,
+    "lon": 98.9603074
+  },
+  {
+    "type": "way",
+    "id": 130830301,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8055752,
+    "lon": 98.9601219
+  },
+  {
+    "type": "way",
+    "id": 130837931,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8055752,
+    "lon": 98.9601219
+  },
+  {
+    "type": "way",
+    "id": 138506508,
+    "name": "ซอย 4 หลิ่งห้า",
+    "name_th": "ซอย 4 หลิ่งห้า",
+    "name_en": "Soi 4 Lingha",
+    "category": "",
+    "lat": 18.7907857,
+    "lon": 98.9563345
+  },
+  {
+    "type": "way",
+    "id": 138506531,
+    "name": "ซอย 3/1 หลิ่งห้า",
+    "name_th": "ซอย 3/1 หลิ่งห้า",
+    "name_en": "Soi 3/1 Lingha",
+    "category": "",
+    "lat": 18.790782,
+    "lon": 98.9567936
+  },
+  {
+    "type": "way",
+    "id": 146280899,
+    "name": "ซอย 1 แสนสุข",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8107595,
+    "lon": 98.9475077
+  },
+  {
+    "type": "way",
+    "id": 146293961,
+    "name": "ถนนห้วยแก้ว ซอย2",
+    "name_th": "ถนนห้วยแก้ว ซอย2",
+    "name_en": "Huay Kaew Soi 2",
+    "category": "",
+    "lat": 18.8026532,
+    "lon": 98.9644687
+  },
+  {
+    "type": "way",
+    "id": 154258745,
+    "name": "ภาควิชาวิศวกรรมโยธา",
+    "name_th": "ภาควิชาวิศวกรรมโยธา",
+    "name_en": "Civil Engineering",
+    "category": "yes",
+    "lat": 18.7948486,
+    "lon": 98.9520191
+  },
+  {
+    "type": "way",
+    "id": 154258749,
+    "name": "ภาควิชาวิศวกรรมโยธา",
+    "name_th": "ภาควิชาวิศวกรรมโยธา",
+    "name_en": "Civil Engineering",
+    "category": "yes",
+    "lat": 18.7945228,
+    "lon": 98.9520011
+  },
+  {
+    "type": "way",
+    "id": 154258750,
+    "name": "โรงประลองวิศวกรรม",
+    "name_th": "",
+    "name_en": "Civil Engineering Workshop",
+    "category": "yes",
+    "lat": 18.7942487,
+    "lon": 98.9520064
+  },
+  {
+    "type": "way",
+    "id": 154258907,
+    "name": "อาคารเรียนรวม 4 ชั้น",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7947857,
+    "lon": 98.9513433
+  },
+  {
+    "type": "way",
+    "id": 154258908,
+    "name": "อาคารเรียนรวม 3 ชั้น",
+    "name_th": "",
+    "name_en": "Education Service Affairs",
+    "category": "yes",
+    "lat": 18.7951445,
+    "lon": 98.9515049
+  },
+  {
+    "type": "way",
+    "id": 154258909,
+    "name": "",
+    "name_th": "",
+    "name_en": "Workshop",
+    "category": "yes",
+    "lat": 18.7951194,
+    "lon": 98.9519982
+  },
+  {
+    "type": "way",
+    "id": 154258911,
+    "name": "ภาควิชาวิศวกรรมอุตสาหการ",
+    "name_th": "",
+    "name_en": "Industrial Engineering",
+    "category": "restaurant",
+    "lat": 18.7953001,
+    "lon": 98.9513226
+  },
+  {
+    "type": "way",
+    "id": 154258912,
+    "name": "ตึกเทอร์โมไดนามิก",
+    "name_th": "ตึกเทอร์โมไดนามิก",
+    "name_en": "Thermo Dynamic",
+    "category": "yes",
+    "lat": 18.7964774,
+    "lon": 98.9524648
+  },
+  {
+    "type": "way",
+    "id": 154258913,
+    "name": "ภาควิชาวิศวกรรมเหมืองแร่",
+    "name_th": "",
+    "name_en": "Mining and Petroleum Engineering",
+    "category": "yes",
+    "lat": 18.7955745,
+    "lon": 98.9513822
+  },
+  {
+    "type": "way",
+    "id": 154258914,
+    "name": "ภาควิชาวิศวกรรมไฟฟ้า",
+    "name_th": "",
+    "name_en": "Electrical Engineering",
+    "category": "yes",
+    "lat": 18.7965102,
+    "lon": 98.9518512
+  },
+  {
+    "type": "way",
+    "id": 154258919,
+    "name": "โรงอาหารคณะวิศวกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "food_court",
+    "lat": 18.7951352,
+    "lon": 98.9508688
+  },
+  {
+    "type": "way",
+    "id": 154258929,
+    "name": "Engineering Home",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7953414,
+    "lon": 98.9505312
+  },
+  {
+    "type": "way",
+    "id": 154258930,
+    "name": "ภาควิชาวิศวกรรมสิ่งแวดล้อม",
+    "name_th": "ภาควิชาวิศวกรรมสิ่งแวดล้อม",
+    "name_en": "Environmental Engineering",
+    "category": "yes",
+    "lat": 18.7957353,
+    "lon": 98.9508419
+  },
+  {
+    "type": "way",
+    "id": 154259069,
+    "name": "ซอยแม่จัน 207",
+    "name_th": "ซอยแม่จัน 207",
+    "name_en": "Soi Mae Chan 207",
+    "category": "",
+    "lat": 18.7942708,
+    "lon": 98.9525046
+  },
+  {
+    "type": "way",
+    "id": 154259071,
+    "name": "ห้องสมุดคณะวิศวกรรมศาสตร์",
+    "name_th": "ห้องสมุดคณะวิศวกรรมศาสตร์",
+    "name_en": "Library of Faculty Engineering",
+    "category": "yes",
+    "lat": 18.7943627,
+    "lon": 98.9510095
+  },
+  {
+    "type": "way",
+    "id": 154259113,
+    "name": "",
+    "name_th": "",
+    "name_en": "Survey Engineering",
+    "category": "yes",
+    "lat": 18.795274,
+    "lon": 98.9529549
+  },
+  {
+    "type": "way",
+    "id": 154259114,
+    "name": "อาคารเครื่องกล 1 (ตึกโอวัลติน)",
+    "name_th": "",
+    "name_en": "Mechanical Engineering",
+    "category": "yes",
+    "lat": 18.7960247,
+    "lon": 98.9526405
+  },
+  {
+    "type": "way",
+    "id": 154259122,
+    "name": "อาคารวิศวกรรมเครื่องกล 4",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7956936,
+    "lon": 98.9519889
+  },
+  {
+    "type": "way",
+    "id": 154259124,
+    "name": "",
+    "name_th": "",
+    "name_en": "Electrical Engineering Workshop",
+    "category": "yes",
+    "lat": 18.7963668,
+    "lon": 98.9510289
+  },
+  {
+    "type": "way",
+    "id": 154318818,
+    "name": "ซอย ๖ก บ้านใหม่หลังมอ",
+    "name_th": "",
+    "name_en": "SOI 6 ก BAN MAI LANG MO",
+    "category": "",
+    "lat": 18.7926283,
+    "lon": 98.9525817
+  },
+  {
+    "type": "way",
+    "id": 170343045,
+    "name": "ซอย 5 วัดป่าแดง",
+    "name_th": "ซอย 5 วัดป่าแดง",
+    "name_en": "Soi 5 Wat Pa Daeng",
+    "category": "",
+    "lat": 18.7890075,
+    "lon": 98.951771
+  },
+  {
+    "type": "way",
+    "id": 170343058,
+    "name": "ซอย 8 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 8 บ้านใหม่หลังมอ",
+    "name_en": "Ban Mai Lang Mo Soi 8",
+    "category": "",
+    "lat": 18.7909125,
+    "lon": 98.9519531
+  },
+  {
+    "type": "way",
+    "id": 170343060,
+    "name": "ซอย 5 หลิ่งห้า",
+    "name_th": "ซอย 5 หลิ่งห้า",
+    "name_en": "Soi 5 Lingha",
+    "category": "",
+    "lat": 18.7903332,
+    "lon": 98.9568555
+  },
+  {
+    "type": "way",
+    "id": 170343065,
+    "name": "บ้านใหม่หลังมอ ซอย3 หมู่ 14",
+    "name_th": "บ้านใหม่หลังมอ ซอย3 หมู่ 14",
+    "name_en": "Ban Mai Lang Mo Soi 3 M. 14",
+    "category": "",
+    "lat": 18.7906939,
+    "lon": 98.9551127
+  },
+  {
+    "type": "way",
+    "id": 170345943,
+    "name": "ซอย 1 แดนตะวัน",
+    "name_th": "ซอย 1 แดนตะวัน",
+    "name_en": "Soi 1 Daetawan",
+    "category": "",
+    "lat": 18.7866428,
+    "lon": 98.9587192
+  },
+  {
+    "type": "way",
+    "id": 182651830,
+    "name": "หอพักชาย6",
+    "name_th": "หอพักนักศึกษาชาย อาคาร 6",
+    "name_en": "6th Male Dormitory",
+    "category": "dormitory",
+    "lat": 18.7977654,
+    "lon": 98.9516059
+  },
+  {
+    "type": "way",
+    "id": 182651831,
+    "name": "หอพักชาย5",
+    "name_th": "หอพักนักศึกษาชาย อาคาร 5",
+    "name_en": "5th Male Dormitory",
+    "category": "dormitory",
+    "lat": 18.7974649,
+    "lon": 98.9515798
+  },
+  {
+    "type": "way",
+    "id": 186714008,
+    "name": "ถนนพระนาง",
+    "name_th": "ถนนพระนาง",
+    "name_en": "Thanon Phranang",
+    "category": "",
+    "lat": 18.8141088,
+    "lon": 98.9541853
+  },
+  {
+    "type": "way",
+    "id": 189631655,
+    "name": "ถนนนครพิงค์ 1",
+    "name_th": "ถนนนครพิงค์ 1",
+    "name_en": "Nakornping 1 Road",
+    "category": "",
+    "lat": 18.8050745,
+    "lon": 98.9504593
+  },
+  {
+    "type": "way",
+    "id": 189631723,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7995734,
+    "lon": 98.9483356
+  },
+  {
+    "type": "way",
+    "id": 189631724,
+    "name": "ซอย 208 ปาแดด",
+    "name_th": "ซอย 208 ปาแดด",
+    "name_en": "Soi 208 Padaet",
+    "category": "",
+    "lat": 18.7987707,
+    "lon": 98.9503258
+  },
+  {
+    "type": "way",
+    "id": 189632297,
+    "name": "",
+    "name_th": "ซอย 5 สุโขทัย",
+    "name_en": "Sukhothai Road 5",
+    "category": "",
+    "lat": 18.802492,
+    "lon": 98.9483562
+  },
+  {
+    "type": "way",
+    "id": 189633587,
+    "name": "ถนนห้วยแก้ว ซอย 3",
+    "name_th": "ถนนห้วยแก้ว ซอย3",
+    "name_en": "Huay Kaew Soi 3",
+    "category": "",
+    "lat": 18.8007003,
+    "lon": 98.9574262
+  },
+  {
+    "type": "way",
+    "id": 190031806,
+    "name": "ถนนชมดอย",
+    "name_th": "ถนนชมดอย",
+    "name_en": "Chomdoi Road",
+    "category": "",
+    "lat": 18.8007601,
+    "lon": 98.9617076
+  },
+  {
+    "type": "way",
+    "id": 195670761,
+    "name": "ถนนช่างเคี่ยน ซอย 2",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 2",
+    "category": "",
+    "lat": 18.8076572,
+    "lon": 98.9616397
+  },
+  {
+    "type": "way",
+    "id": 195670763,
+    "name": "ถนนช่างเคี่ยน ซอย 2",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 2",
+    "category": "",
+    "lat": 18.8076454,
+    "lon": 98.9615817
+  },
+  {
+    "type": "way",
+    "id": 195670766,
+    "name": "ถนนช่างเคี่ยน ซอย 2",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 2",
+    "category": "",
+    "lat": 18.8076911,
+    "lon": 98.960255
+  },
+  {
+    "type": "way",
+    "id": 195670904,
+    "name": "ช่างเคี่ยน ซอย 5",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 5",
+    "category": "",
+    "lat": 18.8105099,
+    "lon": 98.9579242
+  },
+  {
+    "type": "way",
+    "id": 195670905,
+    "name": "ช่างเคี่ยน ซอย 5",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 5",
+    "category": "",
+    "lat": 18.8105222,
+    "lon": 98.9579735
+  },
+  {
+    "type": "way",
+    "id": 195670906,
+    "name": "",
+    "name_th": "",
+    "name_en": "Chiang Khian Road",
+    "category": "",
+    "lat": 18.8085588,
+    "lon": 98.9599845
+  },
+  {
+    "type": "way",
+    "id": 195700799,
+    "name": "ถนนช่างเคี่ยน - เจ็ดยอด",
+    "name_th": "",
+    "name_en": "Chiang Khian Road - Jet Yod",
+    "category": "",
+    "lat": 18.8091751,
+    "lon": 98.9605016
+  },
+  {
+    "type": "way",
+    "id": 200239783,
+    "name": "ตลาดสุเทพ",
+    "name_th": "ตลาดสุเทพ",
+    "name_en": "Suthep Market",
+    "category": "marketplace",
+    "lat": 18.7904861,
+    "lon": 98.9611007
+  },
+  {
+    "type": "way",
+    "id": 200249057,
+    "name": "Freshy Resident",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7930967,
+    "lon": 98.9519818
+  },
+  {
+    "type": "way",
+    "id": 200251776,
+    "name": "ประตูไฟ",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7968321,
+    "lon": 98.9512459
+  },
+  {
+    "type": "way",
+    "id": 200252190,
+    "name": "ทางเข้าออก",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7967805,
+    "lon": 98.9515899
+  },
+  {
+    "type": "way",
+    "id": 200252191,
+    "name": "ทางเข้าออก",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7967209,
+    "lon": 98.9515884
+  },
+  {
+    "type": "way",
+    "id": 200254001,
+    "name": "อาคารวิศวะรวมใจ",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.794991,
+    "lon": 98.9508172
+  },
+  {
+    "type": "way",
+    "id": 200256162,
+    "name": "",
+    "name_th": "",
+    "name_en": "Research and Technology Transfer",
+    "category": "yes",
+    "lat": 18.7956902,
+    "lon": 98.9521474
+  },
+  {
+    "type": "way",
+    "id": 200256856,
+    "name": "ทางเดินเท้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7955688,
+    "lon": 98.9512474
+  },
+  {
+    "type": "way",
+    "id": 200257299,
+    "name": "ทางเดินเท้าข้างโรงฝึก",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7955077,
+    "lon": 98.9519569
+  },
+  {
+    "type": "way",
+    "id": 200617790,
+    "name": "หอ 1 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7989998,
+    "lon": 98.955377
+  },
+  {
+    "type": "way",
+    "id": 200686321,
+    "name": "",
+    "name_th": "",
+    "name_en": "V-Residence",
+    "category": "yes",
+    "lat": 18.8061835,
+    "lon": 98.9610937
+  },
+  {
+    "type": "way",
+    "id": 205009325,
+    "name": "ถนนช่างเคี่ยน ซอย 3",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 3",
+    "category": "",
+    "lat": 18.8081094,
+    "lon": 98.959955
+  },
+  {
+    "type": "way",
+    "id": 209324877,
+    "name": "ซอยโกสึว - ห้วยแก้ว",
+    "name_th": "ซอยโกสึว - ห้วยแก้ว",
+    "name_en": "Soi Ko Suew - Huay Kaew",
+    "category": "",
+    "lat": 18.8105073,
+    "lon": 98.9579062
+  },
+  {
+    "type": "way",
+    "id": 217504883,
+    "name": "Tew Cafe",
+    "name_th": "",
+    "name_en": "",
+    "category": "nightclub",
+    "lat": 18.7985848,
+    "lon": 98.9617484
+  },
+  {
+    "type": "way",
+    "id": 217504884,
+    "name": "โรงเรียนมุทิตาประชารักษ์",
+    "name_th": "",
+    "name_en": "",
+    "category": "training",
+    "lat": 18.8001515,
+    "lon": 98.9601076
+  },
+  {
+    "type": "way",
+    "id": 217504887,
+    "name": "ริมน้ำแมนชั่น",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7997444,
+    "lon": 98.960238
+  },
+  {
+    "type": "way",
+    "id": 233733747,
+    "name": "ถนนช่างเคี่ยน ซอย 6",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 6",
+    "category": "",
+    "lat": 18.8113647,
+    "lon": 98.9595302
+  },
+  {
+    "type": "way",
+    "id": 233735059,
+    "name": "ช่างเคี่ยน-เจ็ดยอด ซอย1",
+    "name_th": "ช่างเคี่ยน-เจ็ดยอด ซอย1",
+    "name_en": "Chang Khian - Jet Yod Soi 1",
+    "category": "",
+    "lat": 18.8085465,
+    "lon": 98.9606701
+  },
+  {
+    "type": "way",
+    "id": 233735061,
+    "name": "ช่างเคี่ยน-เจ็ดยอด ซอย5",
+    "name_th": "ช่างเคี่ยน-เจ็ดยอด ซอย5",
+    "name_en": "Chang Khian - Jet Yod Soi 5",
+    "category": "",
+    "lat": 18.8086557,
+    "lon": 98.9613433
+  },
+  {
+    "type": "way",
+    "id": 233738948,
+    "name": "ถนนชมดอย ซอย 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8004454,
+    "lon": 98.9608763
+  },
+  {
+    "type": "way",
+    "id": 233743273,
+    "name": "",
+    "name_th": "",
+    "name_en": "Prestige CM (New bldg)",
+    "category": "yes",
+    "lat": 18.8042269,
+    "lon": 98.9609143
+  },
+  {
+    "type": "way",
+    "id": 235410470,
+    "name": "Pb1",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8022838,
+    "lon": 98.9546406
+  },
+  {
+    "type": "way",
+    "id": 235410692,
+    "name": "",
+    "name_th": "ภาควิชาคณิตศาสตร์",
+    "name_en": "Department of Mathematics",
+    "category": "university",
+    "lat": 18.8034864,
+    "lon": 98.9534608
+  },
+  {
+    "type": "way",
+    "id": 235411303,
+    "name": "7th Male Dormitory",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7996636,
+    "lon": 98.9497217
+  },
+  {
+    "type": "way",
+    "id": 235411363,
+    "name": "สำนักทะเบียนและประมวลผล มหาวิทยาลัยเชียงใหม่",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8021079,
+    "lon": 98.9521597
+  },
+  {
+    "type": "way",
+    "id": 235413653,
+    "name": "ธนาคารไทยพาณิชย์",
+    "name_th": "ธนาคารไทยพาณิชย์",
+    "name_en": "Siam Commercial Bank",
+    "category": "bank",
+    "lat": 18.8040642,
+    "lon": 98.9541483
+  },
+  {
+    "type": "way",
+    "id": 235413720,
+    "name": "ธนาคารออมสิน",
+    "name_th": "ธนาคารออมสิน",
+    "name_en": "Government Savings Bank",
+    "category": "bank",
+    "lat": 18.804545,
+    "lon": 98.9544254
+  },
+  {
+    "type": "way",
+    "id": 235413760,
+    "name": "ธนาคารกสิกรไทย",
+    "name_th": "ธนาคารกสิกรไทย",
+    "name_en": "Kasikorn Bank",
+    "category": "bank",
+    "lat": 18.8032924,
+    "lon": 98.9531624
+  },
+  {
+    "type": "way",
+    "id": 235418600,
+    "name": "RB5",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8012546,
+    "lon": 98.9528552
+  },
+  {
+    "type": "way",
+    "id": 236507580,
+    "name": "อาคารเรียนรวมสาธิต",
+    "name_th": "",
+    "name_en": "",
+    "category": "school",
+    "lat": 18.7955499,
+    "lon": 98.9534417
+  },
+  {
+    "type": "way",
+    "id": 236510389,
+    "name": "ตู้ยามประตูวิศวกรรมศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7941544,
+    "lon": 98.9532762
+  },
+  {
+    "type": "way",
+    "id": 236510450,
+    "name": "ตู้ยามประตูเกษตร",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7920788,
+    "lon": 98.9588544
+  },
+  {
+    "type": "way",
+    "id": 236510711,
+    "name": "ตู้ยามประตูปตท.",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7956518,
+    "lon": 98.9609804
+  },
+  {
+    "type": "way",
+    "id": 236510768,
+    "name": "ตู้ยามประตูหน้า มช",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8078837,
+    "lon": 98.9544686
+  },
+  {
+    "type": "way",
+    "id": 236510888,
+    "name": "ตู้ยามประตูหน้า มช",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8079293,
+    "lon": 98.9543855
+  },
+  {
+    "type": "way",
+    "id": 236510906,
+    "name": "ตู้ยามสี่แยกไฟแดง",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7994414,
+    "lon": 98.9533925
+  },
+  {
+    "type": "way",
+    "id": 236512005,
+    "name": "งานรักษาความปลอดภัยและจราจร",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8039885,
+    "lon": 98.9548768
+  },
+  {
+    "type": "way",
+    "id": 237479465,
+    "name": "โรงยิมนีเซียม",
+    "name_th": "โรงยิมนีเซียม",
+    "name_en": "Main Gymnasium",
+    "category": "sports_centre",
+    "lat": 18.7971429,
+    "lon": 98.9580261
+  },
+  {
+    "type": "way",
+    "id": 237483509,
+    "name": "camt",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8008735,
+    "lon": 98.950336
+  },
+  {
+    "type": "way",
+    "id": 237484156,
+    "name": "หอศิลป์",
+    "name_th": "",
+    "name_en": "Hosin",
+    "category": "yes",
+    "lat": 18.8025743,
+    "lon": 98.950907
+  },
+  {
+    "type": "way",
+    "id": 237484157,
+    "name": "ตึกเอียง คณะวิจิตรศิลป์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7928343,
+    "lon": 98.9576688
+  },
+  {
+    "type": "way",
+    "id": 239034094,
+    "name": "ฝายหิน",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8072142,
+    "lon": 98.9601208
+  },
+  {
+    "type": "way",
+    "id": 243767007,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8080639,
+    "lon": 98.9627843
+  },
+  {
+    "type": "way",
+    "id": 254597953,
+    "name": "",
+    "name_th": "",
+    "name_en": "71 Export",
+    "category": "clothes",
+    "lat": 18.8046338,
+    "lon": 98.9614653
+  },
+  {
+    "type": "way",
+    "id": 254598130,
+    "name": "อ.ม.ช",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8007992,
+    "lon": 98.9529554
+  },
+  {
+    "type": "way",
+    "id": 278036587,
+    "name": "หอพักบ้านเราเรสซิเดนส์",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7908763,
+    "lon": 98.9582154
+  },
+  {
+    "type": "way",
+    "id": 278039831,
+    "name": "Le Chalet Suite",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7903681,
+    "lon": 98.9563955
+  },
+  {
+    "type": "way",
+    "id": 278039836,
+    "name": "ซอย 6/1 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 6/1 บ้านใหม่หลังมอ",
+    "name_en": "Soi 6/1 Banmailangmo",
+    "category": "",
+    "lat": 18.7922372,
+    "lon": 98.9518692
+  },
+  {
+    "type": "way",
+    "id": 278039840,
+    "name": "ซอย 16 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 16 บ้านใหม่หลังมอ",
+    "name_en": "Soi 16 Banmailangmo",
+    "category": "",
+    "lat": 18.7912934,
+    "lon": 98.9540628
+  },
+  {
+    "type": "way",
+    "id": 283153256,
+    "name": "หอพักโชคชัย",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7909309,
+    "lon": 98.9557906
+  },
+  {
+    "type": "way",
+    "id": 283153257,
+    "name": "",
+    "name_th": "",
+    "name_en": "Hillside Condominium1",
+    "category": "yes",
+    "lat": 18.7918116,
+    "lon": 98.9548245
+  },
+  {
+    "type": "way",
+    "id": 285999593,
+    "name": "One+ Condo",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8016838,
+    "lon": 98.9606686
+  },
+  {
+    "type": "way",
+    "id": 285999611,
+    "name": "บางจาก",
+    "name_th": "บางจาก",
+    "name_en": "Bangchak",
+    "category": "fuel",
+    "lat": 18.8017428,
+    "lon": 98.9601944
+  },
+  {
+    "type": "way",
+    "id": 285999615,
+    "name": "ibis Styles",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8060273,
+    "lon": 98.9600959
+  },
+  {
+    "type": "way",
+    "id": 293465201,
+    "name": "Best Wine & Spirit Co.",
+    "name_th": "",
+    "name_en": "",
+    "category": "alcohol",
+    "lat": 18.8054437,
+    "lon": 98.9604771
+  },
+  {
+    "type": "way",
+    "id": 293506534,
+    "name": "CMU Language Institute",
+    "name_th": "",
+    "name_en": "",
+    "category": "college",
+    "lat": 18.79562,
+    "lon": 98.9577451
+  },
+  {
+    "type": "way",
+    "id": 295453493,
+    "name": "SB1",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8027582,
+    "lon": 98.9501096
+  },
+  {
+    "type": "way",
+    "id": 311212963,
+    "name": "Living a Dream",
+    "name_th": "",
+    "name_en": "",
+    "category": "cafe",
+    "lat": 18.8050127,
+    "lon": 98.9498647
+  },
+  {
+    "type": "way",
+    "id": 311213404,
+    "name": "ศาลาธรรม",
+    "name_th": "",
+    "name_en": "Sala Tham",
+    "category": "place_of_worship",
+    "lat": 18.8050001,
+    "lon": 98.9527153
+  },
+  {
+    "type": "way",
+    "id": 311213413,
+    "name": "หอพัก 40 ปี",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7992568,
+    "lon": 98.9586912
+  },
+  {
+    "type": "way",
+    "id": 311213414,
+    "name": "ศูนย์บริการ ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8019257,
+    "lon": 98.9514866
+  },
+  {
+    "type": "way",
+    "id": 311213415,
+    "name": "ภาควิชาวิทยาการคอมพิวเตอร์",
+    "name_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+    "name_en": "Department of Computer Science",
+    "category": "university",
+    "lat": 18.8039364,
+    "lon": 98.9522826
+  },
+  {
+    "type": "way",
+    "id": 311213659,
+    "name": "ศาลาอ่างแก้ว",
+    "name_th": "",
+    "name_en": "",
+    "category": "shelter",
+    "lat": 18.8070847,
+    "lon": 98.9528405
+  },
+  {
+    "type": "way",
+    "id": 313513917,
+    "name": "อาคารพลศึกษา",
+    "name_th": "",
+    "name_en": "",
+    "category": "sports_centre",
+    "lat": 18.7959096,
+    "lon": 98.9549561
+  },
+  {
+    "type": "way",
+    "id": 313514369,
+    "name": "ตึกSCB2",
+    "name_th": "",
+    "name_en": "",
+    "category": "school",
+    "lat": 18.8014305,
+    "lon": 98.9561677
+  },
+  {
+    "type": "way",
+    "id": 313745368,
+    "name": "HB2",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8034868,
+    "lon": 98.9497922
+  },
+  {
+    "type": "way",
+    "id": 314207781,
+    "name": "Flora House",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.80861,
+    "lon": 98.9593627
+  },
+  {
+    "type": "way",
+    "id": 314669227,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.810709,
+    "lon": 98.9584065
+  },
+  {
+    "type": "way",
+    "id": 314692104,
+    "name": "ภาควิชาธรณีวิทยา",
+    "name_th": "",
+    "name_en": "Department of Geological Sciences",
+    "category": "university",
+    "lat": 18.8027396,
+    "lon": 98.9518418
+  },
+  {
+    "type": "way",
+    "id": 314705682,
+    "name": "หอ 2 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.799898,
+    "lon": 98.9538507
+  },
+  {
+    "type": "way",
+    "id": 316370016,
+    "name": "Doi Suthep Nature Study Center, Faculty of Science, Chiang Mai University",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8103904,
+    "lon": 98.948694
+  },
+  {
+    "type": "way",
+    "id": 317918950,
+    "name": "ศูนย์พัฒนาเด็กเล็ก เทศบาลตำบลช้างเผือก",
+    "name_th": "ศูนย์พัฒนาเด็กเล็ก เทศบาลตำบลช้างเผือก",
+    "name_en": "",
+    "category": "public_building",
+    "lat": 18.8092904,
+    "lon": 98.9594344
+  },
+  {
+    "type": "way",
+    "id": 317918951,
+    "name": "Huay Keaw Palace 2",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8091297,
+    "lon": 98.9599373
+  },
+  {
+    "type": "way",
+    "id": 320664125,
+    "name": "CB1",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.802096,
+    "lon": 98.9534298
+  },
+  {
+    "type": "way",
+    "id": 320664126,
+    "name": "ภาควิชาฟิสิกส์ และวัสดุศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.801355,
+    "lon": 98.9554927
+  },
+  {
+    "type": "way",
+    "id": 320664127,
+    "name": "ภาคชีววืทยา",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.802581,
+    "lon": 98.9533093
+  },
+  {
+    "type": "way",
+    "id": 320664128,
+    "name": "biological science museum Department of Biology Chiang Mai University",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8023216,
+    "lon": 98.9531566
+  },
+  {
+    "type": "way",
+    "id": 320664130,
+    "name": "CB2",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8018577,
+    "lon": 98.9541921
+  },
+  {
+    "type": "way",
+    "id": 325238406,
+    "name": "ไปรษณีย์ไทย มหาวิทยาลัยเชียงใหม่",
+    "name_th": "",
+    "name_en": "Chiangmai University Post Office",
+    "category": "post_office",
+    "lat": 18.8043153,
+    "lon": 98.9542585
+  },
+  {
+    "type": "way",
+    "id": 325240326,
+    "name": "อาคารสาธิต 3",
+    "name_th": "",
+    "name_en": "",
+    "category": "school",
+    "lat": 18.7957222,
+    "lon": 98.9540702
+  },
+  {
+    "type": "way",
+    "id": 325240907,
+    "name": "อาคารสาธิต 2",
+    "name_th": "",
+    "name_en": "",
+    "category": "school",
+    "lat": 18.7950719,
+    "lon": 98.9534728
+  },
+  {
+    "type": "way",
+    "id": 325240948,
+    "name": "อาคารสาธิตรวมใจ",
+    "name_th": "",
+    "name_en": "",
+    "category": "school",
+    "lat": 18.7944959,
+    "lon": 98.953856
+  },
+  {
+    "type": "way",
+    "id": 325243860,
+    "name": "Punna Resident",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.792869,
+    "lon": 98.9534596
+  },
+  {
+    "type": "way",
+    "id": 331608114,
+    "name": "ภูเทพเรสซิเดนซ์",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8000167,
+    "lon": 98.9592727
+  },
+  {
+    "type": "way",
+    "id": 331608117,
+    "name": "One+ Condo CMU 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8002735,
+    "lon": 98.959047
+  },
+  {
+    "type": "way",
+    "id": 331608118,
+    "name": "One+ Condo CMU 2",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7998374,
+    "lon": 98.9587901
+  },
+  {
+    "type": "way",
+    "id": 331608128,
+    "name": "งานอาคารสถานที่",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7969584,
+    "lon": 98.9589419
+  },
+  {
+    "type": "way",
+    "id": 331608324,
+    "name": "uniloft",
+    "name_th": "",
+    "name_en": "",
+    "category": "hostel",
+    "lat": 18.7913634,
+    "lon": 98.9499616
+  },
+  {
+    "type": "way",
+    "id": 331608331,
+    "name": "หัวมุมศิลป์ หลังมอ หน้",
+    "name_th": "",
+    "name_en": "",
+    "category": "supermarket",
+    "lat": 18.7930046,
+    "lon": 98.9533398
+  },
+  {
+    "type": "way",
+    "id": 331608332,
+    "name": "Ping Yang Buffet",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.790945,
+    "lon": 98.9525433
+  },
+  {
+    "type": "way",
+    "id": 331608336,
+    "name": "อรอนงค์แมนชั่น",
+    "name_th": "อรอนงค์แมนชั่น",
+    "name_en": "Onanong Mansion",
+    "category": "apartments",
+    "lat": 18.7911461,
+    "lon": 98.9519751
+  },
+  {
+    "type": "way",
+    "id": 331608338,
+    "name": "โรงอาหารคณะศึกษาศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "food_court",
+    "lat": 18.7937224,
+    "lon": 98.9541433
+  },
+  {
+    "type": "way",
+    "id": 339602161,
+    "name": "หอพักไพพนา",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7923622,
+    "lon": 98.9557703
+  },
+  {
+    "type": "way",
+    "id": 342887909,
+    "name": "222",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7923126,
+    "lon": 98.9498992
+  },
+  {
+    "type": "way",
+    "id": 342887910,
+    "name": "Steak Doctor",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.793707,
+    "lon": 98.9509818
+  },
+  {
+    "type": "way",
+    "id": 344497071,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8082801,
+    "lon": 98.9547935
+  },
+  {
+    "type": "way",
+    "id": 381425895,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7923319,
+    "lon": 98.9567993
+  },
+  {
+    "type": "way",
+    "id": 381425897,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7933508,
+    "lon": 98.9532311
+  },
+  {
+    "type": "way",
+    "id": 381425903,
+    "name": "ซอย ๙ เชิงดอย",
+    "name_th": "",
+    "name_en": "Soi 9 Cheungdoi",
+    "category": "",
+    "lat": 18.7920955,
+    "lon": 98.9486889
+  },
+  {
+    "type": "way",
+    "id": 381428129,
+    "name": "ถนนช่างเคี่ยน",
+    "name_th": "",
+    "name_en": "Chiang Khian Road",
+    "category": "",
+    "lat": 18.8086954,
+    "lon": 98.9599827
+  },
+  {
+    "type": "way",
+    "id": 382404264,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8055078,
+    "lon": 98.9600843
+  },
+  {
+    "type": "way",
+    "id": 382404265,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8083651,
+    "lon": 98.9548432
+  },
+  {
+    "type": "way",
+    "id": 382404266,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7947857,
+    "lon": 98.946798
+  },
+  {
+    "type": "way",
+    "id": 383399870,
+    "name": "สหกรณ์ออมทรัพย์ มหาวิทยาลัยเชียงใหม่",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8039076,
+    "lon": 98.9547596
+  },
+  {
+    "type": "way",
+    "id": 388422003,
+    "name": "",
+    "name_th": "",
+    "name_en": "University Office",
+    "category": "university",
+    "lat": 18.8042936,
+    "lon": 98.9550312
+  },
+  {
+    "type": "way",
+    "id": 388422096,
+    "name": "คณะรัฐศาสตร์และรัฐประศาสนศาสตร์",
+    "name_th": "คณะรัฐศาสตร์และรัฐประศาสนศาสตร์",
+    "name_en": "Faculty of Political Science and Public Administration",
+    "category": "university",
+    "lat": 18.8036858,
+    "lon": 98.9542824
+  },
+  {
+    "type": "way",
+    "id": 389552872,
+    "name": "Seven Fountains Spirituality Center",
+    "name_th": "",
+    "name_en": "",
+    "category": "place_of_worship",
+    "lat": 18.8075875,
+    "lon": 98.9579001
+  },
+  {
+    "type": "way",
+    "id": 389552873,
+    "name": "The Core Hotel",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8077019,
+    "lon": 98.9570168
+  },
+  {
+    "type": "way",
+    "id": 399076006,
+    "name": "หอพักหญิง M.P.M",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7922099,
+    "lon": 98.9564657
+  },
+  {
+    "type": "way",
+    "id": 399076007,
+    "name": "หอพัก V.K.",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7919927,
+    "lon": 98.9563801
+  },
+  {
+    "type": "way",
+    "id": 416513890,
+    "name": "ซอย ๘/๒ ชวัญโกมล",
+    "name_th": "",
+    "name_en": "Soi 8/2 Khwan Komon",
+    "category": "",
+    "lat": 18.7929235,
+    "lon": 98.9511136
+  },
+  {
+    "type": "way",
+    "id": 416515791,
+    "name": "ซอย ๘/๑ ปลอดโปร่ง",
+    "name_th": "",
+    "name_en": "Soi 8/1 PlotProng",
+    "category": "",
+    "lat": 18.793439,
+    "lon": 98.951122
+  },
+  {
+    "type": "way",
+    "id": 416519171,
+    "name": "D condo Campus Chiangmai",
+    "name_th": "",
+    "name_en": "",
+    "category": "residential",
+    "lat": 18.7933474,
+    "lon": 98.9497541
+  },
+  {
+    "type": "way",
+    "id": 421101560,
+    "name": "Hillcrest Apartments",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8063351,
+    "lon": 98.9613187
+  },
+  {
+    "type": "way",
+    "id": 421101573,
+    "name": "The Oak Tree",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8068037,
+    "lon": 98.961092
+  },
+  {
+    "type": "way",
+    "id": 424493001,
+    "name": "หอพักในกำกับ หอสีชมพู",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7991065,
+    "lon": 98.9581868
+  },
+  {
+    "type": "way",
+    "id": 428555409,
+    "name": "I Sleep",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8005023,
+    "lon": 98.9619882
+  },
+  {
+    "type": "way",
+    "id": 438116762,
+    "name": "หอพักอิงฟ้า",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7900763,
+    "lon": 98.9573247
+  },
+  {
+    "type": "way",
+    "id": 438119434,
+    "name": "เนาวลลักษณ์แมนชั่น",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7909338,
+    "lon": 98.9600238
+  },
+  {
+    "type": "way",
+    "id": 438134731,
+    "name": "หอพักอิงภู",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.790402,
+    "lon": 98.9582379
+  },
+  {
+    "type": "way",
+    "id": 438135029,
+    "name": "เชียงใหม่อุดมเลิศคอร์ท",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7902084,
+    "lon": 98.9576769
+  },
+  {
+    "type": "way",
+    "id": 438162137,
+    "name": "Sa-nguan Malee Mansion",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7912931,
+    "lon": 98.9505466
+  },
+  {
+    "type": "way",
+    "id": 438236789,
+    "name": "ซอย 17 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 17 บ้านใหม่หลังมอ",
+    "name_en": "Soi 17 Banmailangmo",
+    "category": "",
+    "lat": 18.7918509,
+    "lon": 98.9556171
+  },
+  {
+    "type": "way",
+    "id": 438237420,
+    "name": "โรงอาหารคณะมนุษยศาสตร์",
+    "name_th": "",
+    "name_en": "Humanities Canteen",
+    "category": "food_court",
+    "lat": 18.8044536,
+    "lon": 98.9492933
+  },
+  {
+    "type": "way",
+    "id": 438294729,
+    "name": "เอกวนา คอร์ท",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8004265,
+    "lon": 98.958546
+  },
+  {
+    "type": "way",
+    "id": 438354192,
+    "name": "หอลิลลี่ คอร์ท",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8011348,
+    "lon": 98.9584508
+  },
+  {
+    "type": "way",
+    "id": 442372355,
+    "name": "Bays Coffee & Food for Thought",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8059958,
+    "lon": 98.9613291
+  },
+  {
+    "type": "way",
+    "id": 443798925,
+    "name": "Malin Residence",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8078741,
+    "lon": 98.9563955
+  },
+  {
+    "type": "way",
+    "id": 443798932,
+    "name": "Under-cover Parking",
+    "name_th": "",
+    "name_en": "",
+    "category": "parking",
+    "lat": 18.8093372,
+    "lon": 98.9561641
+  },
+  {
+    "type": "way",
+    "id": 443799595,
+    "name": "",
+    "name_th": "",
+    "name_en": "Toilets",
+    "category": "toilets",
+    "lat": 18.8092653,
+    "lon": 98.9560449
+  },
+  {
+    "type": "way",
+    "id": 443799596,
+    "name": "E Hostel",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8095584,
+    "lon": 98.9573821
+  },
+  {
+    "type": "way",
+    "id": 452420473,
+    "name": "Lanna Muay Thai Boxing Camp",
+    "name_th": "",
+    "name_en": "",
+    "category": "sports_centre",
+    "lat": 18.8096907,
+    "lon": 98.9593571
+  },
+  {
+    "type": "way",
+    "id": 481815149,
+    "name": "Squirrel Hostel",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7927696,
+    "lon": 98.9503652
+  },
+  {
+    "type": "way",
+    "id": 493766421,
+    "name": "Animal Show",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8082276,
+    "lon": 98.9451261
+  },
+  {
+    "type": "way",
+    "id": 500200999,
+    "name": "ECB2",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8018102,
+    "lon": 98.9497388
+  },
+  {
+    "type": "way",
+    "id": 500201000,
+    "name": "HB5",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8044398,
+    "lon": 98.9500466
+  },
+  {
+    "type": "way",
+    "id": 529378771,
+    "name": "โรงแรมชมดอยเฮ้าส์",
+    "name_th": "โรงแรมชมดอยเฮ้าส์",
+    "name_en": "Chomdoi House Hotel",
+    "category": "yes",
+    "lat": 18.8007672,
+    "lon": 98.9619872
+  },
+  {
+    "type": "way",
+    "id": 529378775,
+    "name": "Hub 53 Coworking & Coliving",
+    "name_th": "",
+    "name_en": "Hub53 Coworking  & Coliving",
+    "category": "yes",
+    "lat": 18.7998644,
+    "lon": 98.9608598
+  },
+  {
+    "type": "way",
+    "id": 540882570,
+    "name": "PTT",
+    "name_th": "ป.ต.ท.",
+    "name_en": "PTT",
+    "category": "fuel",
+    "lat": 18.7967016,
+    "lon": 98.9609201
+  },
+  {
+    "type": "way",
+    "id": 543814504,
+    "name": "ซอย 5 สุโขทัย",
+    "name_th": "ซอย 5 สุโขทัย",
+    "name_en": "Sukhothai Road 5",
+    "category": "",
+    "lat": 18.8021696,
+    "lon": 98.9485171
+  },
+  {
+    "type": "way",
+    "id": 543846352,
+    "name": "ซอย 13 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 13 บ้านใหม่หลังมอ",
+    "name_en": "Soi 13 Banmailangmo",
+    "category": "",
+    "lat": 18.7904197,
+    "lon": 98.9542
+  },
+  {
+    "type": "way",
+    "id": 543846358,
+    "name": "ซอย 14 บ้านใหม่หลังมอ",
+    "name_th": "",
+    "name_en": "Ban Mai Lang Mo Soi 14",
+    "category": "",
+    "lat": 18.7906038,
+    "lon": 98.9519004
+  },
+  {
+    "type": "way",
+    "id": 543846362,
+    "name": "ซอย 15 บ้านใหม่หลังมอ",
+    "name_th": "",
+    "name_en": "Ban Mai Lang Mo Soi 15",
+    "category": "",
+    "lat": 18.7900426,
+    "lon": 98.9518285
+  },
+  {
+    "type": "way",
+    "id": 543848188,
+    "name": "ที่จอดรถคณะมนุษย์ศาสตร์",
+    "name_th": "ที่จอดรถคณะมนุษย์ศาสตร์",
+    "name_en": "Faculty of Humanities Parking",
+    "category": "parking",
+    "lat": 18.8045634,
+    "lon": 98.9512989
+  },
+  {
+    "type": "way",
+    "id": 553956686,
+    "name": "หอพัก ชลธิดา",
+    "name_th": "",
+    "name_en": "",
+    "category": "residential",
+    "lat": 18.7918567,
+    "lon": 98.9526542
+  },
+  {
+    "type": "way",
+    "id": 553957175,
+    "name": "บ้านครูนก",
+    "name_th": "",
+    "name_en": "",
+    "category": "residential",
+    "lat": 18.7919518,
+    "lon": 98.9537472
+  },
+  {
+    "type": "way",
+    "id": 553958384,
+    "name": "ลานเอนกประสงค์",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7947857,
+    "lon": 98.9513433
+  },
+  {
+    "type": "way",
+    "id": 553958619,
+    "name": "โรงอาหารคณะบริหารธุรกิจ",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7936962,
+    "lon": 98.9568043
+  },
+  {
+    "type": "way",
+    "id": 553958749,
+    "name": "Department of Statistic",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8029599,
+    "lon": 98.9537207
+  },
+  {
+    "type": "way",
+    "id": 554756555,
+    "name": "ธนาคารกรุงไทย",
+    "name_th": "ธนาคารกรุงไทย",
+    "name_en": "Krungthai Bank",
+    "category": "bank",
+    "lat": 18.8053984,
+    "lon": 98.9595832
+  },
+  {
+    "type": "way",
+    "id": 575408675,
+    "name": "ซอย 9 บ้านใหม่หลังมอ",
+    "name_th": "ซอย 9 บ้านใหม่หลังมอ",
+    "name_en": "Ban Mai Lang Mo Soi 9",
+    "category": "",
+    "lat": 18.7909125,
+    "lon": 98.9519531
+  },
+  {
+    "type": "way",
+    "id": 575408682,
+    "name": "",
+    "name_th": "",
+    "name_en": "Puen Play",
+    "category": "cafe",
+    "lat": 18.7910494,
+    "lon": 98.9501365
+  },
+  {
+    "type": "way",
+    "id": 575408692,
+    "name": "",
+    "name_th": "",
+    "name_en": "Casa Condo @CMU",
+    "category": "yes",
+    "lat": 18.7936967,
+    "lon": 98.9486003
+  },
+  {
+    "type": "way",
+    "id": 575408697,
+    "name": "",
+    "name_th": "",
+    "name_en": "Nandamalee Apartments & Condo",
+    "category": "yes",
+    "lat": 18.7911098,
+    "lon": 98.9508824
+  },
+  {
+    "type": "way",
+    "id": 575408704,
+    "name": "Home and Hill",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7915833,
+    "lon": 98.9504543
+  },
+  {
+    "type": "way",
+    "id": 575408714,
+    "name": "บ้านอิ่มรัก",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7917972,
+    "lon": 98.9511603
+  },
+  {
+    "type": "way",
+    "id": 575409951,
+    "name": "Anunyaphum Apartments",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7937085,
+    "lon": 98.9506067
+  },
+  {
+    "type": "way",
+    "id": 575413613,
+    "name": "Sinthana Resort",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7900741,
+    "lon": 98.9556057
+  },
+  {
+    "type": "way",
+    "id": 576783159,
+    "name": "Stupa",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8084666,
+    "lon": 98.9603499
+  },
+  {
+    "type": "way",
+    "id": 576783182,
+    "name": "วัดช่างเคี่ยน",
+    "name_th": "",
+    "name_en": "Wat Chang Kian",
+    "category": "place_of_worship",
+    "lat": 18.8084553,
+    "lon": 98.9603641
+  },
+  {
+    "type": "way",
+    "id": 578703572,
+    "name": "Bed Changkian",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8075817,
+    "lon": 98.9616942
+  },
+  {
+    "type": "way",
+    "id": 578703574,
+    "name": "",
+    "name_th": "",
+    "name_en": "Interio Architectural",
+    "category": "company",
+    "lat": 18.8072173,
+    "lon": 98.9614915
+  },
+  {
+    "type": "way",
+    "id": 578703584,
+    "name": "Suteecare Car Wash",
+    "name_th": "",
+    "name_en": "",
+    "category": "car_wash",
+    "lat": 18.8071249,
+    "lon": 98.9611984
+  },
+  {
+    "type": "way",
+    "id": 578704170,
+    "name": "",
+    "name_th": "",
+    "name_en": "Nivas Chiangmai",
+    "category": "yes",
+    "lat": 18.808821,
+    "lon": 98.9583643
+  },
+  {
+    "type": "way",
+    "id": 578704172,
+    "name": "",
+    "name_th": "บ้านจอมทอง",
+    "name_en": "",
+    "category": "house",
+    "lat": 18.8065617,
+    "lon": 98.9569413
+  },
+  {
+    "type": "way",
+    "id": 585027211,
+    "name": "",
+    "name_th": "",
+    "name_en": "Political Science 50th Year Anniversary Building",
+    "category": "university",
+    "lat": 18.8032037,
+    "lon": 98.9553073
+  },
+  {
+    "type": "way",
+    "id": 585300788,
+    "name": "",
+    "name_th": "",
+    "name_en": "University Office",
+    "category": "university",
+    "lat": 18.8042575,
+    "lon": 98.9553409
+  },
+  {
+    "type": "way",
+    "id": 585302154,
+    "name": "",
+    "name_th": "",
+    "name_en": "CMU Strategic Building",
+    "category": "university",
+    "lat": 18.8043343,
+    "lon": 98.9547558
+  },
+  {
+    "type": "way",
+    "id": 585302156,
+    "name": "",
+    "name_th": "",
+    "name_en": "University Office",
+    "category": "university",
+    "lat": 18.8043097,
+    "lon": 98.9551671
+  },
+  {
+    "type": "way",
+    "id": 585302158,
+    "name": "สำนักงานมหาวิทยาลัย 3",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8037245,
+    "lon": 98.9554919
+  },
+  {
+    "type": "way",
+    "id": 586453979,
+    "name": "Visit CMU",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8077174,
+    "lon": 98.9531605
+  },
+  {
+    "type": "way",
+    "id": 587388874,
+    "name": "PB2-100",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8015618,
+    "lon": 98.9554296
+  },
+  {
+    "type": "way",
+    "id": 635485287,
+    "name": "โรงแรมพิงค์พะยอม",
+    "name_th": "",
+    "name_en": "Ping Payom Hotel",
+    "category": "yes",
+    "lat": 18.7901379,
+    "lon": 98.9623552
+  },
+  {
+    "type": "way",
+    "id": 635485960,
+    "name": "Stylish Condominium, A",
+    "name_th": "",
+    "name_en": "Stylish Condo",
+    "category": "apartments",
+    "lat": 18.8022113,
+    "lon": 98.959364
+  },
+  {
+    "type": "way",
+    "id": 637796571,
+    "name": "HB1",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8037616,
+    "lon": 98.9503142
+  },
+  {
+    "type": "way",
+    "id": 637796573,
+    "name": "HB4",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8036854,
+    "lon": 98.9511698
+  },
+  {
+    "type": "way",
+    "id": 637819746,
+    "name": "HB6",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.804395,
+    "lon": 98.9512087
+  },
+  {
+    "type": "way",
+    "id": 642052748,
+    "name": "SB3",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8027663,
+    "lon": 98.9497483
+  },
+  {
+    "type": "way",
+    "id": 651491382,
+    "name": "TESCO Lotus Express",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.8072142,
+    "lon": 98.9601208
+  },
+  {
+    "type": "way",
+    "id": 666017443,
+    "name": "ศูนย์ราชการกรมปศุสัตว์",
+    "name_th": "ศูนย์ราชการกรมปศุสัตว์",
+    "name_en": "Department of Livestock Development",
+    "category": "public_building",
+    "lat": 18.8113455,
+    "lon": 98.9507001
+  },
+  {
+    "type": "way",
+    "id": 685192780,
+    "name": "ก๋วยเตี๋ยวเรือตี๋น้อย",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7934076,
+    "lon": 98.9526356
+  },
+  {
+    "type": "way",
+    "id": 688930917,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7909983,
+    "lon": 98.9605831
+  },
+  {
+    "type": "way",
+    "id": 688930921,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7912626,
+    "lon": 98.9600775
+  },
+  {
+    "type": "way",
+    "id": 688953177,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7910175,
+    "lon": 98.960838
+  },
+  {
+    "type": "way",
+    "id": 688953178,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7906345,
+    "lon": 98.96169
+  },
+  {
+    "type": "way",
+    "id": 688956429,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7909418,
+    "lon": 98.9607578
+  },
+  {
+    "type": "way",
+    "id": 688956434,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7910175,
+    "lon": 98.960838
+  },
+  {
+    "type": "way",
+    "id": 688956438,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7910774,
+    "lon": 98.9606416
+  },
+  {
+    "type": "way",
+    "id": 688956443,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7909983,
+    "lon": 98.9605831
+  },
+  {
+    "type": "way",
+    "id": 688956448,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7899125,
+    "lon": 98.9601939
+  },
+  {
+    "type": "way",
+    "id": 688956452,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.790928,
+    "lon": 98.9608004
+  },
+  {
+    "type": "way",
+    "id": 688956456,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.791085,
+    "lon": 98.9606168
+  },
+  {
+    "type": "way",
+    "id": 688956464,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7920993,
+    "lon": 98.9612428
+  },
+  {
+    "type": "way",
+    "id": 689206997,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7962868,
+    "lon": 98.9618472
+  },
+  {
+    "type": "way",
+    "id": 689206998,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7937838,
+    "lon": 98.9618528
+  },
+  {
+    "type": "way",
+    "id": 689206999,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7940061,
+    "lon": 98.9616309
+  },
+  {
+    "type": "way",
+    "id": 689207000,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7953177,
+    "lon": 98.9618812
+  },
+  {
+    "type": "way",
+    "id": 689207001,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7919601,
+    "lon": 98.9609202
+  },
+  {
+    "type": "way",
+    "id": 689207002,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7956617,
+    "lon": 98.9617592
+  },
+  {
+    "type": "way",
+    "id": 689207003,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7947644,
+    "lon": 98.9618854
+  },
+  {
+    "type": "way",
+    "id": 689207005,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7948589,
+    "lon": 98.9621847
+  },
+  {
+    "type": "way",
+    "id": 689696057,
+    "name": "",
+    "name_th": "",
+    "name_en": "Nakornping Road 1",
+    "category": "",
+    "lat": 18.7966455,
+    "lon": 98.953301
+  },
+  {
+    "type": "way",
+    "id": 689714480,
+    "name": "La Residencia",
+    "name_th": "สา เรสซิเดนเซีย",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7926237,
+    "lon": 98.9536103
+  },
+  {
+    "type": "way",
+    "id": 689714481,
+    "name": "แกรนด์ฮิลล์ เพลส",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7916763,
+    "lon": 98.9535231
+  },
+  {
+    "type": "way",
+    "id": 689714482,
+    "name": "บ้านเชิงดอย ซอย3",
+    "name_th": "บ้านเชิงดอย ซอย3",
+    "name_en": "Ban Choeng Doi Soi 3",
+    "category": "",
+    "lat": 18.7926163,
+    "lon": 98.9512005
+  },
+  {
+    "type": "way",
+    "id": 689714483,
+    "name": "บ้านเชิงดอย ซอย3",
+    "name_th": "บ้านเชิงดอย ซอย3",
+    "name_en": "Ban Choeng Doi Soi 3",
+    "category": "",
+    "lat": 18.7926628,
+    "lon": 98.9511574
+  },
+  {
+    "type": "way",
+    "id": 689721143,
+    "name": "หอพักสตรี อารียา แมนชั่น",
+    "name_th": "หอพักสตรี อารียา แมนชั่น",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7921239,
+    "lon": 98.9539194
+  },
+  {
+    "type": "way",
+    "id": 689773217,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8071175,
+    "lon": 98.9572038
+  },
+  {
+    "type": "way",
+    "id": 689773218,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8070575,
+    "lon": 98.9573173
+  },
+  {
+    "type": "way",
+    "id": 689773219,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8069877,
+    "lon": 98.9572599
+  },
+  {
+    "type": "way",
+    "id": 689773220,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8070405,
+    "lon": 98.9571592
+  },
+  {
+    "type": "way",
+    "id": 689773222,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8052055,
+    "lon": 98.9599119
+  },
+  {
+    "type": "way",
+    "id": 689773223,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8032607,
+    "lon": 98.9593142
+  },
+  {
+    "type": "way",
+    "id": 689773224,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Klong Chonprathan Road",
+    "category": "",
+    "lat": 18.8030341,
+    "lon": 98.9593774
+  },
+  {
+    "type": "way",
+    "id": 689773225,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.7959947,
+    "lon": 98.9616501
+  },
+  {
+    "type": "way",
+    "id": 689960225,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8016697,
+    "lon": 98.9600699
+  },
+  {
+    "type": "way",
+    "id": 689960226,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8056719,
+    "lon": 98.9604783
+  },
+  {
+    "type": "way",
+    "id": 690516608,
+    "name": "ซอย ๒ เภสัชกรโต",
+    "name_th": "",
+    "name_en": "Soi 2 Phesaichakonto",
+    "category": "",
+    "lat": 18.7914622,
+    "lon": 98.9593763
+  },
+  {
+    "type": "way",
+    "id": 694361370,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.79125,
+    "lon": 98.9599936
+  },
+  {
+    "type": "way",
+    "id": 694361371,
+    "name": "ถนนส���เทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7911864,
+    "lon": 98.960048
+  },
+  {
+    "type": "way",
+    "id": 694361372,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7906703,
+    "lon": 98.9615838
+  },
+  {
+    "type": "way",
+    "id": 694361373,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.790756,
+    "lon": 98.9616375
+  },
+  {
+    "type": "way",
+    "id": 694361374,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7903308,
+    "lon": 98.9625598
+  },
+  {
+    "type": "way",
+    "id": 697842133,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8054517,
+    "lon": 98.9603447
+  },
+  {
+    "type": "way",
+    "id": 697842138,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8038984,
+    "lon": 98.9630369
+  },
+  {
+    "type": "way",
+    "id": 697849397,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8025556,
+    "lon": 98.9597909
+  },
+  {
+    "type": "way",
+    "id": 697849398,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8033204,
+    "lon": 98.959539
+  },
+  {
+    "type": "way",
+    "id": 697849399,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.806387,
+    "lon": 98.9612138
+  },
+  {
+    "type": "way",
+    "id": 698293144,
+    "name": "ร้านพรชนะ",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8070585,
+    "lon": 98.960064
+  },
+  {
+    "type": "way",
+    "id": 699556700,
+    "name": "ซอย 3 หลิ่งห้า",
+    "name_th": "ซอย 3 หลิ่งห้า",
+    "name_en": "Soi 3 Lingha",
+    "category": "",
+    "lat": 18.7908338,
+    "lon": 98.9576337
+  },
+  {
+    "type": "way",
+    "id": 699556701,
+    "name": "ซอย 7 บ้��นใหม่หลังมอ",
+    "name_th": "ซอย 7 บ้านใหม่หลังมอ",
+    "name_en": "Soi 7 Banmailangmo",
+    "category": "",
+    "lat": 18.7921258,
+    "lon": 98.9516548
+  },
+  {
+    "type": "way",
+    "id": 699563646,
+    "name": "ถนนห้วยแก้ว ซอย 3ค",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8026785,
+    "lon": 98.9588443
+  },
+  {
+    "type": "way",
+    "id": 699569901,
+    "name": "ซอย ๕๐ต สรีนคร",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.802428,
+    "lon": 98.9489964
+  },
+  {
+    "type": "way",
+    "id": 699569902,
+    "name": "ซอย 5 สุโขทัย",
+    "name_th": "ซอย 5 สุโขทัย",
+    "name_en": "Sukhothai Road 5",
+    "category": "",
+    "lat": 18.8017278,
+    "lon": 98.9485254
+  },
+  {
+    "type": "way",
+    "id": 699569903,
+    "name": "",
+    "name_th": "ซอย 5 สุโขทัย",
+    "name_en": "Sukhothai Road 5",
+    "category": "",
+    "lat": 18.8021696,
+    "lon": 98.9485171
+  },
+  {
+    "type": "way",
+    "id": 699625397,
+    "name": "ถนนนิมมานเหมินท์-สุขเกษม",
+    "name_th": "ถนนสุขเกษม",
+    "name_en": "Nimmana Haeminda-Sukkasem Road",
+    "category": "",
+    "lat": 18.7991766,
+    "lon": 98.9640001
+  },
+  {
+    "type": "way",
+    "id": 712508597,
+    "name": "อาคารสาธิต 50 ปี",
+    "name_th": "",
+    "name_en": "",
+    "category": "school",
+    "lat": 18.7947701,
+    "lon": 98.9538367
+  },
+  {
+    "type": "way",
+    "id": 712508602,
+    "name": "ศาลาป้าแ��ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7952407,
+    "lon": 98.9540704
+  },
+  {
+    "type": "way",
+    "id": 734843630,
+    "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+    "name_th": "",
+    "name_en": "Lanna Traditional House Museum CMU.",
+    "category": "yes",
+    "lat": 18.7916301,
+    "lon": 98.9615317
+  },
+  {
+    "type": "way",
+    "id": 736400982,
+    "name": "บ้านไผ่ล้อม",
+    "name_th": "",
+    "name_en": "",
+    "category": "house",
+    "lat": 18.7997534,
+    "lon": 98.9586306
+  },
+  {
+    "type": "way",
+    "id": 736401208,
+    "name": "บ้านปทุมวัน มช.",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7905852,
+    "lon": 98.9542585
+  },
+  {
+    "type": "way",
+    "id": 736403023,
+    "name": "7-11 suthep branch",
+    "name_th": "",
+    "name_en": "",
+    "category": "general",
+    "lat": 18.7920553,
+    "lon": 98.9567714
+  },
+  {
+    "type": "way",
+    "id": 736403237,
+    "name": "ถนนเล็ก",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7966899,
+    "lon": 98.9585127
+  },
+  {
+    "type": "way",
+    "id": 736403518,
+    "name": "215 ม.9 อ.เมือง จ.แพร่",
+    "name_th": "",
+    "name_en": "",
+    "category": "house",
+    "lat": 18.7902097,
+    "lon": 98.9571212
+  },
+  {
+    "type": "way",
+    "id": 736405406,
+    "name": "สโมสรนักศึกษาคณะสังคมศาสตร์",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.8024637,
+    "lon": 98.9495398
+  },
+  {
+    "type": "way",
+    "id": 736428866,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8055078,
+    "lon": 98.9600843
+  },
+  {
+    "type": "way",
+    "id": 749359117,
+    "name": "ถนนเลียบคลองชลประทาน",
+    "name_th": "ถนนเลียบคลองชลประทาน",
+    "name_en": "Khlong Chonlaprathan Road",
+    "category": "",
+    "lat": 18.8054517,
+    "lon": 98.9603447
+  },
+  {
+    "type": "way",
+    "id": 761393151,
+    "name": "Tad Chompoo Walk and Run",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8041602,
+    "lon": 98.9469346
+  },
+  {
+    "type": "way",
+    "id": 761661520,
+    "name": "",
+    "name_th": "",
+    "name_en": "Student's Potential Development Center",
+    "category": "government",
+    "lat": 18.8050095,
+    "lon": 98.9500232
+  },
+  {
+    "type": "way",
+    "id": 761724620,
+    "name": "ศูนย์ภูมิภาคด้านสังคมศาสตร์และการพัฒนาอย่างยั่งยืน",
+    "name_th": "",
+    "name_en": "The Regional Center for Social Science and Sustainable Development (RCSD)",
+    "category": "university",
+    "lat": 18.8025555,
+    "lon": 98.9490789
+  },
+  {
+    "type": "way",
+    "id": 761733936,
+    "name": "สถานีวิทยุเสียงสื่อสารมวลชน (ส.ส.ม.ช.)",
+    "name_th": "",
+    "name_en": "Mass Communication Radio Station",
+    "category": "university",
+    "lat": 18.8024245,
+    "lon": 98.9476234
+  },
+  {
+    "type": "way",
+    "id": 762191074,
+    "name": "Tad Chompoo Walk and Run",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8042732,
+    "lon": 98.9467831
+  },
+  {
+    "type": "way",
+    "id": 762191075,
+    "name": "Tad Chompoo Walk and Run",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8043456,
+    "lon": 98.9468274
+  },
+  {
+    "type": "way",
+    "id": 762191076,
+    "name": "Tad Chompoo Walk and Run",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.804357,
+    "lon": 98.947109
+  },
+  {
+    "type": "way",
+    "id": 763064013,
+    "name": "CMU Guest House",
+    "name_th": "",
+    "name_en": "",
+    "category": "residential",
+    "lat": 18.8070364,
+    "lon": 98.9480856
+  },
+  {
+    "type": "way",
+    "id": 763064014,
+    "name": "CMU Guest House",
+    "name_th": "",
+    "name_en": "",
+    "category": "residential",
+    "lat": 18.8070906,
+    "lon": 98.9484145
+  },
+  {
+    "type": "way",
+    "id": 763787959,
+    "name": "",
+    "name_th": "",
+    "name_en": "Office of the University",
+    "category": "university",
+    "lat": 18.8049867,
+    "lon": 98.9548159
+  },
+  {
+    "type": "way",
+    "id": 763787962,
+    "name": "ถนน ๖ พิษณุโลก",
+    "name_th": "ถนน ๖ พิษณุโลก",
+    "name_en": "Phitsanulok Road 6",
+    "category": "",
+    "lat": 18.7996416,
+    "lon": 98.9519367
+  },
+  {
+    "type": "way",
+    "id": 763787963,
+    "name": "ถนน ๖ พิษณุโลก",
+    "name_th": "ถนน ๖ พิษณุโลก",
+    "name_en": "Phitsanulok Road 6",
+    "category": "",
+    "lat": 18.7994203,
+    "lon": 98.9519215
+  },
+  {
+    "type": "way",
+    "id": 763787966,
+    "name": "",
+    "name_th": "",
+    "name_en": "Shanto Bed & Breakfast",
+    "category": "yes",
+    "lat": 18.8012152,
+    "lon": 98.957472
+  },
+  {
+    "type": "way",
+    "id": 763914930,
+    "name": "ถนนห้วยแก้ว ซอย 3",
+    "name_th": "ถนนห้วยแก้ว ซอย3",
+    "name_en": "Huay Kaew Soi 3",
+    "category": "",
+    "lat": 18.8033489,
+    "lon": 98.9575332
+  },
+  {
+    "type": "way",
+    "id": 763914931,
+    "name": "ถนนห้วยแก้ว ซอย 3",
+    "name_th": "ถนนห้วยแก้ว ซอย3",
+    "name_en": "Huay Kaew Soi 3",
+    "category": "",
+    "lat": 18.8032888,
+    "lon": 98.9575013
+  },
+  {
+    "type": "way",
+    "id": 764025786,
+    "name": "ถนน ๖ พิษณุโลก",
+    "name_th": "ถนน ๖ พิษณุโลก",
+    "name_en": "Phitsanulok Road 6",
+    "category": "",
+    "lat": 18.7995016,
+    "lon": 98.9519595
+  },
+  {
+    "type": "way",
+    "id": 776107614,
+    "name": "7-Eleven",
+    "name_th": "",
+    "name_en": "",
+    "category": "convenience",
+    "lat": 18.7969639,
+    "lon": 98.9609514
+  },
+  {
+    "type": "way",
+    "id": 810224000,
+    "name": "หอพักชาย 4",
+    "name_th": "หอพักชาย 4",
+    "name_en": "4th Male Dormitory",
+    "category": "dormitory",
+    "lat": 18.7973939,
+    "lon": 98.9527803
+  },
+  {
+    "type": "way",
+    "id": 810224008,
+    "name": "หอ 8 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7982476,
+    "lon": 98.9553684
+  },
+  {
+    "type": "way",
+    "id": 810224012,
+    "name": "หอ 7 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7989984,
+    "lon": 98.9544834
+  },
+  {
+    "type": "way",
+    "id": 810224014,
+    "name": "หอ 5 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.797832,
+    "lon": 98.954489
+  },
+  {
+    "type": "way",
+    "id": 810224016,
+    "name": "หอ 5 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7982375,
+    "lon": 98.9544862
+  },
+  {
+    "type": "way",
+    "id": 810224019,
+    "name": "หอ 4 หญิง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7982272,
+    "lon": 98.9537801
+  },
+  {
+    "type": "way",
+    "id": 810224023,
+    "name": "หอพักหญิง6",
+    "name_th": "หอพักหญิง6",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.797377,
+    "lon": 98.953589
+  },
+  {
+    "type": "way",
+    "id": 810224025,
+    "name": "หอพักหญิง6",
+    "name_th": "หอพักหญิง6",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7977944,
+    "lon": 98.9535756
+  },
+  {
+    "type": "way",
+    "id": 810224026,
+    "name": "หอพักชาย 3",
+    "name_th": "",
+    "name_en": "3rd male dormitory",
+    "category": "dormitory",
+    "lat": 18.7982232,
+    "lon": 98.9527457
+  },
+  {
+    "type": "way",
+    "id": 810358530,
+    "name": "หอสมเด็จพระพุทธปัญญาธรรม",
+    "name_th": "",
+    "name_en": "",
+    "category": "place_of_worship",
+    "lat": 18.7943249,
+    "lon": 98.9541739
+  },
+  {
+    "type": "way",
+    "id": 810358556,
+    "name": "อาคารสาธิต 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7949584,
+    "lon": 98.954701
+  },
+  {
+    "type": "way",
+    "id": 810358558,
+    "name": "อาคารสาธิต 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7943694,
+    "lon": 98.9547023
+  },
+  {
+    "type": "way",
+    "id": 810358559,
+    "name": "อาคารธุรการ",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7945979,
+    "lon": 98.9545588
+  },
+  {
+    "type": "way",
+    "id": 810391126,
+    "name": "อาคาร จอดรถ S1",
+    "name_th": "",
+    "name_en": "S1 Building",
+    "category": "parking",
+    "lat": 18.7921455,
+    "lon": 98.9584751
+  },
+  {
+    "type": "way",
+    "id": 812712982,
+    "name": "สนามฮอกกี้",
+    "name_th": "สนามฮอกกี้",
+    "name_en": "Hockey Field",
+    "category": "pitch",
+    "lat": 18.7962943,
+    "lon": 98.9496295
+  },
+  {
+    "type": "way",
+    "id": 812713020,
+    "name": "บ้านนายช่าง",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7950158,
+    "lon": 98.9491606
+  },
+  {
+    "type": "way",
+    "id": 812718131,
+    "name": "Agri Chapter : Art Farmer",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.7914085,
+    "lon": 98.9602643
+  },
+  {
+    "type": "way",
+    "id": 813378414,
+    "name": "กินในมอ Food Center",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.799859,
+    "lon": 98.9512999
+  },
+  {
+    "type": "way",
+    "id": 866506854,
+    "name": "คลินิกทันตแพทย์ทองนารถ-ปริฉัตร",
+    "name_th": "คลินิกทันตแพทย์ทองนารถ-ปริฉัตร",
+    "name_en": "",
+    "category": "dentist",
+    "lat": 18.7910088,
+    "lon": 98.9602755
+  },
+  {
+    "type": "way",
+    "id": 927277111,
+    "name": "Soi 10/2 Songnang",
+    "name_th": "",
+    "name_en": "Soi 10/2 Songnang",
+    "category": "",
+    "lat": 18.7984599,
+    "lon": 98.9472779
+  },
+  {
+    "type": "way",
+    "id": 948889608,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7914622,
+    "lon": 98.9593763
+  },
+  {
+    "type": "way",
+    "id": 961977554,
+    "name": "SCB4",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.803055,
+    "lon": 98.95329
+  },
+  {
+    "type": "way",
+    "id": 965211877,
+    "name": "",
+    "name_th": "บ้านจอมทอง",
+    "name_en": "",
+    "category": "house",
+    "lat": 18.8065486,
+    "lon": 98.9567643
+  },
+  {
+    "type": "way",
+    "id": 1012743474,
+    "name": "",
+    "name_th": "",
+    "name_en": "Sornsiri Mansion",
+    "category": "apartments",
+    "lat": 18.7920344,
+    "lon": 98.9532008
+  },
+  {
+    "type": "way",
+    "id": 1012743476,
+    "name": "ร้าน",
+    "name_th": "",
+    "name_en": "Big Tree",
+    "category": "restaurant",
+    "lat": 18.7916324,
+    "lon": 98.9527758
+  },
+  {
+    "type": "way",
+    "id": 1012743477,
+    "name": "สิริทร วิลล่า",
+    "name_th": "สิริทร วิลล่า",
+    "name_en": "Sirithron Villa",
+    "category": "yes",
+    "lat": 18.7916075,
+    "lon": 98.9557077
+  },
+  {
+    "type": "way",
+    "id": 1113338070,
+    "name": "หอพักบ้านเราแมนชั่น",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.7905265,
+    "lon": 98.9587618
+  },
+  {
+    "type": "way",
+    "id": 1138194542,
+    "name": "หอพักบ้วนอังเส็ง",
+    "name_th": "",
+    "name_en": "",
+    "category": "dormitory",
+    "lat": 18.7899554,
+    "lon": 98.9536115
+  },
+  {
+    "type": "way",
+    "id": 1139241871,
+    "name": "CNOC ITSC",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8033496,
+    "lon": 98.9540522
+  },
+  {
+    "type": "way",
+    "id": 1143797840,
+    "name": "ตึกจีโนม",
+    "name_th": "",
+    "name_en": "",
+    "category": "university",
+    "lat": 18.8028342,
+    "lon": 98.9527865
+  },
+  {
+    "type": "way",
+    "id": 1144344480,
+    "name": "ตึกฤทธา",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7956361,
+    "lon": 98.9492519
+  },
+  {
+    "type": "way",
+    "id": 1144799217,
+    "name": "ธนภัส อพาร์ตเมนต์",
+    "name_th": "",
+    "name_en": "",
+    "category": "apartments",
+    "lat": 18.8099067,
+    "lon": 98.954107
+  },
+  {
+    "type": "way",
+    "id": 1144801223,
+    "name": "ศูนย์กีฬาและสุขภาพ มหาวิทยาลัยเชียงใหม่",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7980109,
+    "lon": 98.9574716
+  },
+  {
+    "type": "way",
+    "id": 1169434706,
+    "name": "Eat 8 Eaten Food Court",
+    "name_th": "",
+    "name_en": "",
+    "category": "restaurant",
+    "lat": 18.8092219,
+    "lon": 98.957045
+  },
+  {
+    "type": "way",
+    "id": 1173215032,
+    "name": "ถนนสุเทพ",
+    "name_th": "",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7905524,
+    "lon": 98.9618952
+  },
+  {
+    "type": "way",
+    "id": 1173215033,
+    "name": "ถนนสุเทพ",
+    "name_th": "",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7907255,
+    "lon": 98.9617261
+  },
+  {
+    "type": "way",
+    "id": 1191723836,
+    "name": "ช่างเคี่ยน ซอย 5",
+    "name_th": "",
+    "name_en": "Chang Khian Soi 5",
+    "category": "",
+    "lat": 18.8103826,
+    "lon": 98.9570662
+  },
+  {
+    "type": "way",
+    "id": 1246237283,
+    "name": "ถนนช่างเคี่ยน - เจ็ดยอด",
+    "name_th": "",
+    "name_en": "Chang Khian - Jed Yod Road",
+    "category": "",
+    "lat": 18.8089173,
+    "lon": 98.9621804
+  },
+  {
+    "type": "way",
+    "id": 1250985497,
+    "name": "ถนนช่างเคี่ยน - เจ็ดยอด",
+    "name_th": "",
+    "name_en": "Chang Khian - Jed Yod Road",
+    "category": "",
+    "lat": 18.8090276,
+    "lon": 98.9617676
+  },
+  {
+    "type": "way",
+    "id": 1250985498,
+    "name": "ถนนช่างเคี่ยน - เจ็ดยอด",
+    "name_th": "",
+    "name_en": "Chang Khian - Jed Yod Road",
+    "category": "",
+    "lat": 18.8091208,
+    "lon": 98.9613661
+  },
+  {
+    "type": "way",
+    "id": 1250985499,
+    "name": "ถนนช่างเคี่ยน - เจ็ดยอด",
+    "name_th": "",
+    "name_en": "Chang Khian - Jed Yod Road",
+    "category": "",
+    "lat": 18.8091958,
+    "lon": 98.9608174
+  },
+  {
+    "type": "way",
+    "id": 1250985500,
+    "name": "ถนนช่างเคี่ยน - เจ็ดยอด",
+    "name_th": "",
+    "name_en": "Chang Khian - Jed Yod Road",
+    "category": "",
+    "lat": 18.8092116,
+    "lon": 98.9606382
+  },
+  {
+    "type": "way",
+    "id": 1259748076,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8102576,
+    "lon": 98.9503927
+  },
+  {
+    "type": "way",
+    "id": 1351096529,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8106405,
+    "lon": 98.9491586
+  },
+  {
+    "type": "way",
+    "id": 1375028050,
+    "name": "โรงปรับปรุงคุณภาพน้ำ",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.7976157,
+    "lon": 98.9598025
+  },
+  {
+    "type": "way",
+    "id": 1388829718,
+    "name": "ข่วงวัฒนธรรม",
+    "name_th": "",
+    "name_en": "Cultural Square",
+    "category": "",
+    "lat": 18.797212,
+    "lon": 98.9499092
+  },
+  {
+    "type": "way",
+    "id": 1415126982,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8083673,
+    "lon": 98.9546271
+  },
+  {
+    "type": "way",
+    "id": 1415126983,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8084507,
+    "lon": 98.9546752
+  },
+  {
+    "type": "way",
+    "id": 1415126984,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8082936,
+    "lon": 98.9549843
+  },
+  {
+    "type": "way",
+    "id": 1431486050,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.790928,
+    "lon": 98.9608004
+  },
+  {
+    "type": "way",
+    "id": 1431486051,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7909897,
+    "lon": 98.9606097
+  },
+  {
+    "type": "way",
+    "id": 1431486052,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.791085,
+    "lon": 98.9606168
+  },
+  {
+    "type": "way",
+    "id": 1431486053,
+    "name": "ถนนสุเทพ",
+    "name_th": "ถนนสุเทพ",
+    "name_en": "Suthep Road",
+    "category": "",
+    "lat": 18.7910313,
+    "lon": 98.9607928
+  },
+  {
+    "type": "way",
+    "id": 1466595644,
+    "name": "ถนนห้วยแก้ว",
+    "name_th": "ถนนห้วยแก้ว",
+    "name_en": "Huaykaew Road",
+    "category": "",
+    "lat": 18.8107595,
+    "lon": 98.9475077
+  },
+  {
+    "type": "way",
+    "id": 1466700064,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7995348,
+    "lon": 98.9474501
+  },
+  {
+    "type": "way",
+    "id": 1466700065,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7994943,
+    "lon": 98.9532677
+  },
+  {
+    "type": "way",
+    "id": 1466707616,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7994203,
+    "lon": 98.9519215
+  },
+  {
+    "type": "way",
+    "id": 1466707617,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7994658,
+    "lon": 98.952741
+  },
+  {
+    "type": "way",
+    "id": 1466707618,
+    "name": "",
+    "name_th": "",
+    "name_en": "Nakornping Road 1",
+    "category": "",
+    "lat": 18.7989474,
+    "lon": 98.9532746
+  },
+  {
+    "type": "way",
+    "id": 1466707619,
+    "name": "ถนน ๑ นครพิงค์",
+    "name_th": "ถนน ๑ นครพิงค์",
+    "name_en": "Nakornping Road 1",
+    "category": "",
+    "lat": 18.8042089,
+    "lon": 98.952336
+  },
+  {
+    "type": "way",
+    "id": 1467241441,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7988069,
+    "lon": 98.951068
+  },
+  {
+    "type": "way",
+    "id": 1467241443,
+    "name": "ซอยเชียงราย 2",
+    "name_th": "ซอย��ชียงราย 2",
+    "name_en": "Soi Chiang Rai 2",
+    "category": "",
+    "lat": 18.7964999,
+    "lon": 98.9534472
+  },
+  {
+    "type": "way",
+    "id": 1467241445,
+    "name": "ซอยเชียงราย 2",
+    "name_th": "ซอยเชียงราย 2",
+    "name_en": "Soi Chiang Rai 2",
+    "category": "",
+    "lat": 18.7959457,
+    "lon": 98.9572434
+  },
+  {
+    "type": "way",
+    "id": 1468673204,
+    "name": "ถนน ๔ เขลางค์",
+    "name_th": "ถนน 4 เขลางค์",
+    "name_en": "4 Khelang Road",
+    "category": "",
+    "lat": 18.7987707,
+    "lon": 98.9503258
+  },
+  {
+    "type": "way",
+    "id": 1476728839,
+    "name": "Route 1",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.7994459,
+    "lon": 98.9522312
+  },
+  {
+    "type": "way",
+    "id": 1476728841,
+    "name": "Route 3",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8001954,
+    "lon": 98.9520231
+  },
+  {
+    "type": "way",
+    "id": 1476728843,
+    "name": "Route 4",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8012366,
+    "lon": 98.9518386
+  },
+  {
+    "type": "way",
+    "id": 1476728846,
+    "name": "Route 7",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8018093,
+    "lon": 98.951249
+  },
+  {
+    "type": "way",
+    "id": 1476728847,
+    "name": "Route 8",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8021735,
+    "lon": 98.9506531
+  },
+  {
+    "type": "way",
+    "id": 1476728848,
+    "name": "Route 9",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8025498,
+    "lon": 98.9505527
+  },
+  {
+    "type": "way",
+    "id": 1476728849,
+    "name": "Route 10",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8024409,
+    "lon": 98.9505818
+  },
+  {
+    "type": "way",
+    "id": 1476728850,
+    "name": "Route 10",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8030862,
+    "lon": 98.9504389
+  },
+  {
+    "type": "way",
+    "id": 1476728851,
+    "name": "Route 12",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8030278,
+    "lon": 98.9505838
+  },
+  {
+    "type": "way",
+    "id": 1476728852,
+    "name": "Route 11",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8030278,
+    "lon": 98.9505838
+  },
+  {
+    "type": "way",
+    "id": 1476728853,
+    "name": "Route 13",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8035456,
+    "lon": 98.95079
+  },
+  {
+    "type": "way",
+    "id": 1476897782,
+    "name": "ทางเชื่อมอาคาร",
+    "name_th": "",
+    "name_en": "",
+    "category": "",
+    "lat": 18.8009726,
+    "lon": 98.9524917
+  },
+  {
+    "type": "way",
+    "id": 1502795007,
+    "name": "ถนน ๑ นครพิงค์",
+    "name_th": "ถนน ๑ นครพิงค์",
+    "name_en": "Nakornping Road 1",
+    "category": "",
+    "lat": 18.8038035,
+    "lon": 98.9536133
+  },
+  {
+    "type": "way",
+    "id": 1502795008,
+    "name": "ถนน ๑ นครพิงค์",
+    "name_th": "ถนน ๑ นครพิงค์",
+    "name_en": "Nakornping Road 1",
+    "category": "",
+    "lat": 18.8038798,
+    "lon": 98.9538699
+  },
+  {
+    "type": "way",
+    "id": 1502795012,
+    "name": "ซอยนครพิงค์ 1",
+    "name_th": "ซอยนครพิงค์ 1",
+    "name_en": "Soi Nakornping 1",
+    "category": "",
+    "lat": 18.8037461,
+    "lon": 98.9540389
+  },
+  {
+    "type": "way",
+    "id": 1502795013,
+    "name": "ซอยนครพิงค์ 1",
+    "name_th": "ซอยนครพิงค์ 1",
+    "name_en": "Soi Nakornping 1",
+    "category": "",
+    "lat": 18.8039173,
+    "lon": 98.9539345
+  },
+  {
+    "type": "way",
+    "id": 1535245953,
+    "name": "อาคาร 08133",
+    "name_th": "",
+    "name_en": "",
+    "category": "yes",
+    "lat": 18.793018,
+    "lon": 98.9590211
+  }
+]

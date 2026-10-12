@@ -1,0 +1,611 @@
+[
+  {
+    "id": 245207334,
+    "lat": 18.8035826,
+    "lon": 98.9541578,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 245208113,
+    "lat": 18.7962972,
+    "lon": 98.9532427,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 260585489,
+    "lat": 18.7988149,
+    "lon": 98.9502299,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 260585702,
+    "lat": 18.7989125,
+    "lon": 98.951366,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 804171928,
+    "lat": 18.8020721,
+    "lon": 98.9512946,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 914622470,
+    "lat": 18.7979949,
+    "lon": 98.9572787,
+    "name": "สนามกีฬากลาง",
+    "crossing": ""
+  },
+  {
+    "id": 1068214076,
+    "lat": 18.794335,
+    "lon": 98.9543327,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 2137483111,
+    "lat": 18.8061699,
+    "lon": 98.9589967,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 3512297587,
+    "lat": 18.8106836,
+    "lon": 98.9489818,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 4405331165,
+    "lat": 18.7962963,
+    "lon": 98.9533416,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 5346676956,
+    "lat": 18.7965928,
+    "lon": 98.9525411,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 5346676957,
+    "lat": 18.7966536,
+    "lon": 98.9519825,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6463122543,
+    "lat": 18.7929422,
+    "lon": 98.9546619,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465547653,
+    "lat": 18.7959325,
+    "lon": 98.9573482,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465547654,
+    "lat": 18.7960581,
+    "lon": 98.9572451,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465547655,
+    "lat": 18.7959724,
+    "lon": 98.9570613,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465547656,
+    "lat": 18.7957925,
+    "lon": 98.9572432,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465562725,
+    "lat": 18.7964937,
+    "lon": 98.9535337,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465562726,
+    "lat": 18.7967803,
+    "lon": 98.9532991,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465562728,
+    "lat": 18.7964731,
+    "lon": 98.9543669,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465562729,
+    "lat": 18.7962618,
+    "lon": 98.9549552,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6465569233,
+    "lat": 18.7952646,
+    "lon": 98.9532421,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465569234,
+    "lat": 18.7952628,
+    "lon": 98.9533311,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465569235,
+    "lat": 18.7966011,
+    "lon": 98.9530395,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465598333,
+    "lat": 18.7987652,
+    "lon": 98.9504133,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465598334,
+    "lat": 18.7986668,
+    "lon": 98.9503227,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465598335,
+    "lat": 18.7967537,
+    "lon": 98.9522395,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465643504,
+    "lat": 18.8082544,
+    "lon": 98.9550581,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465643505,
+    "lat": 18.8081707,
+    "lon": 98.9550022,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465643510,
+    "lat": 18.8058263,
+    "lon": 98.9596469,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6465643511,
+    "lat": 18.8057621,
+    "lon": 98.959599,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470290056,
+    "lat": 18.7906345,
+    "lon": 98.96169,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470290057,
+    "lat": 18.7907255,
+    "lon": 98.9617261,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358721,
+    "lat": 18.7994929,
+    "lon": 98.9532324,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6470358722,
+    "lat": 18.7994599,
+    "lon": 98.9532613,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6470358723,
+    "lat": 18.7994969,
+    "lon": 98.9533008,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6470358724,
+    "lat": 18.7995282,
+    "lon": 98.9532687,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6470358725,
+    "lat": 18.8003154,
+    "lon": 98.9533834,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358726,
+    "lat": 18.8017766,
+    "lon": 98.9547837,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358727,
+    "lat": 18.8021201,
+    "lon": 98.954532,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358728,
+    "lat": 18.802904,
+    "lon": 98.9543374,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358745,
+    "lat": 18.8054944,
+    "lon": 98.9542476,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358746,
+    "lat": 18.8060031,
+    "lon": 98.9531994,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470358747,
+    "lat": 18.8058374,
+    "lon": 98.9535414,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6470383150,
+    "lat": 18.7986916,
+    "lon": 98.9533504,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6471141978,
+    "lat": 18.8094806,
+    "lon": 98.9526489,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6471141979,
+    "lat": 18.8093976,
+    "lon": 98.9526066,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6471141982,
+    "lat": 18.8056114,
+    "lon": 98.9600534,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6471141983,
+    "lat": 18.8055455,
+    "lon": 98.9600123,
+    "name": "",
+    "crossing": "traffic_signals"
+  },
+  {
+    "id": 6473463568,
+    "lat": 18.7966792,
+    "lon": 98.9522846,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6553484632,
+    "lat": 18.7957773,
+    "lon": 98.9588739,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6557943250,
+    "lat": 18.8094515,
+    "lon": 98.9595489,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6557943253,
+    "lat": 18.8075857,
+    "lon": 98.9602264,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 6748783784,
+    "lat": 18.7962906,
+    "lon": 98.9540567,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 7153515854,
+    "lat": 18.7994766,
+    "lon": 98.9552398,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 7577285922,
+    "lat": 18.7951302,
+    "lon": 98.9542171,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 7577285923,
+    "lat": 18.7955648,
+    "lon": 98.9541472,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 7577285971,
+    "lat": 18.7962675,
+    "lon": 98.9549229,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 7579280643,
+    "lat": 18.7935454,
+    "lon": 98.9557948,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 7590934954,
+    "lat": 18.7949924,
+    "lon": 98.9531796,
+    "name": "",
+    "crossing": "marked"
+  },
+  {
+    "id": 7591012858,
+    "lat": 18.7957425,
+    "lon": 98.960179,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 7597795023,
+    "lat": 18.7992623,
+    "lon": 98.9498073,
+    "name": "",
+    "crossing": "marked"
+  },
+  {
+    "id": 7640116639,
+    "lat": 18.7996838,
+    "lon": 98.9483303,
+    "name": "",
+    "crossing": "marked"
+  },
+  {
+    "id": 7640116650,
+    "lat": 18.7996267,
+    "lon": 98.9491408,
+    "name": "",
+    "crossing": "marked"
+  },
+  {
+    "id": 8000341760,
+    "lat": 18.7960028,
+    "lon": 98.9592477,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 8000341764,
+    "lat": 18.7960351,
+    "lon": 98.9584884,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 8000341768,
+    "lat": 18.7962496,
+    "lon": 98.9557953,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 8000341769,
+    "lat": 18.7962763,
+    "lon": 98.9554833,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 8000372358,
+    "lat": 18.793486,
+    "lon": 98.95451,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 8000372360,
+    "lat": 18.7946466,
+    "lon": 98.954287,
+    "name": "",
+    "crossing": "uncontrolled"
+  },
+  {
+    "id": 11187289592,
+    "lat": 18.7943732,
+    "lon": 98.9542803,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054833,
+    "lat": 18.7994981,
+    "lon": 98.9537205,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054850,
+    "lat": 18.7989865,
+    "lon": 98.9515691,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054851,
+    "lat": 18.7994171,
+    "lon": 98.9527465,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054852,
+    "lat": 18.7994184,
+    "lon": 98.9527622,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054858,
+    "lat": 18.7958,
+    "lon": 98.9541574,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054878,
+    "lat": 18.7977553,
+    "lon": 98.9532184,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054886,
+    "lat": 18.7965841,
+    "lon": 98.9530381,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054890,
+    "lat": 18.7989306,
+    "lon": 98.9513489,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130054898,
+    "lat": 18.793511,
+    "lon": 98.9548256,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13130055012,
+    "lat": 18.7962945,
+    "lon": 98.9549283,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13436799880,
+    "lat": 18.7967294,
+    "lon": 98.9605006,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13436799886,
+    "lat": 18.7969684,
+    "lon": 98.9604821,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13436799887,
+    "lat": 18.7970587,
+    "lon": 98.9604759,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13545183845,
+    "lat": 18.8006699,
+    "lon": 98.9525116,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13583683778,
+    "lat": 18.7958199,
+    "lon": 98.9588755,
+    "name": "",
+    "crossing": ""
+  },
+  {
+    "id": 13583683779,
+    "lat": 18.7958783,
+    "lon": 98.9572433,
+    "name": "",
+    "crossing": ""
+  }
+]
